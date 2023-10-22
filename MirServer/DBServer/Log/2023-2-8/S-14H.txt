@@ -1,0 +1,201 @@
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+Msg:-------------
+2023-02-08 14:10:27 TFrmUserSoc.ProcessGateMsg1 ]TRA]TNA]TRA]TRA]TRA]TRA]TP@]TRA]TRA]OJA]TRA]TRA17098132/2/210/1/0   2356
+Msg:-------------
+2023-02-08 14:10:27 查询人物 17098132/2/210/1/0  10.42.0.96
+Msg:-------------
+2023-02-08 14:10:28 TFrmUserSoc.ProcessGateMsg1 =DRA]YvA]TRJ]TRA]TRA]TRA]TP@]TRA]TRA]TRA]TRJ]TRA   2356
+Msg:-------------
+2023-02-08 14:10:28 TFrmUserSoc.ProcessGateMsg1 ]TRA]RjA]TRA]TRA]TRA]TRA]TP@]TRA]TRA]WJA]TP@]TRA17098132   2356
+Msg:-------------
+2023-02-08 14:10:30 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TP@]TRA]TRA]TRA]TRH]TRA   2356
+Msg:-------------
+2023-02-08 14:10:30 TFrmUserSoc.ProcessGateMsg1 ]TRA]S>A]TRA]TRA]TRA]TRA]TP@]TRA]TRA]NJA]TSY]TRA{"server_name":"210","sex":1,"secsdk":"0","account":17098132,"job":2,"chr":"寮曞彂琛�妗?,"sdkid":"1"}   2356
+Msg:-------------
+2023-02-08 14:10:31 TFrmUserSoc.ProcessGateMsg1 ]TRA]XrA]TRA]TRA]TRA]TRA]TP@]TRA]TRA]N^A]TQi]TRA17098132/寮曞彂琛�妗?  2356
+Msg:-------------
+2023-02-08 14:10:31 TFrmDBSrv.LoadHumanRcd1 17098132-1675836631005158612,10.42.0.96,2,1,0
+Msg:-------------
+2023-02-08 14:10:33:744 >>>SaveData: 17098132, 1675836631005158612
+Msg:-------------
+2023-02-08 14:10:33 >>TDataThread.OnMsg 1675836631005158612
+剩余待处理保存数据：0
+Msg:-------------
+2023-02-08 14:11:02 TFrmUserSoc.ProcessGateMsg1 ]TRA]TNA]TRA]TRA]TRA]TRA]TRH]TRA]TRA]OJA]TRA]TRA17098132/3/210/1/0   2356
+Msg:-------------
+2023-02-08 14:11:02 查询人物 17098132/3/210/1/0  10.42.0.96
+Msg:-------------
+2023-02-08 14:11:04 TFrmUserSoc.ProcessGateMsg1 ]TRA]RjA]TRA]TRA]TRA]TRA]TRH]TRA]TRA]WJA]TRJ]TRA17098132   2356
+Msg:-------------
+2023-02-08 14:11:06 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRH]TRA]TRA]TRA]TP@]TRA   2356
+剩余待处理保存数据：0
+Msg:-------------
+2023-02-08 14:11:08 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRH]TRA]TRA]TRA]TRH]TRA   2356
+Msg:-------------
+2023-02-08 14:11:09 TFrmUserSoc.ProcessGateMsg1 ]TRA]YvA]TRA]TRA]TRA]TRA]TRH]TRA]TRA]TRA]TSY]TRA   2356
+Msg:-------------
+2023-02-08 14:11:11 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRH]TRA]TRA]TRA]TQi]TRA   2356
+Msg:-------------
+2023-02-08 14:11:13 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRH]TRA]TRA]TRA]TQf]TRA   2356
+Msg:-------------
+2023-02-08 14:11:14 TFrmUserSoc.ProcessGateMsg1 ]TRA]S>A]TRA]TRA]TRA]TRA]TRH]TRA]TRA]LfA]TSh]TRA{"server_name":"210","sex":0,"secsdk":"0","account":17098132,"job":0,"chr":"榄傛贰","sdkid":"1"}   2356
+Msg:-------------
+2023-02-08 14:11:15 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRH]TRA]TRA]TRA]TRo]TRA   2356
+Msg:-------------
+2023-02-08 14:11:15 TFrmUserSoc.ProcessGateMsg1 ]TRA]XrA]TRA]TRA]TRA]TRA]TRH]TRA]TRA]WRA]TQs]TRA17098132/榄傛贰   2356
+Msg:-------------
+2023-02-08 14:11:15 TFrmDBSrv.LoadHumanRcd1 17098132-1675836675005159214,10.42.0.96,3,1,0
+Msg:-------------
+2023-02-08 14:11:16:385 >>>SaveData: 17098132, 1675836675005159214
+Msg:-------------
+2023-02-08 14:11:16 >>TDataThread.OnMsg 1675836675005159214
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+Msg:-------------
+2023-02-08 14:21:16:393 >>>SaveData: 17098132, 1675836675005159214
+Msg:-------------
+2023-02-08 14:21:16 >>TDataThread.OnMsg 1675836675005159214
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+Msg:-------------
+2023-02-08 14:31:16:460 >>>SaveData: 17098132, 1675836675005159214
+Msg:-------------
+2023-02-08 14:31:16 >>TDataThread.OnMsg 1675836675005159214
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+Msg:-------------
+2023-02-08 14:41:10 TFrmUserSoc.ProcessGateMsg1 ]TRA]TNA]TRA]TRA]TRA]TRA]TSY]TRA]TRA]OJA]TRA]TRA17098132/4/210/1/0   2364
+Msg:-------------
+2023-02-08 14:41:10 查询人物 17098132/4/210/1/0  10.42.0.96
+Msg:-------------
+2023-02-08 14:41:11 TFrmUserSoc.ProcessGateMsg1 ]TRA]RjA]TRA]TRA]TRA]TRA]TSY]TRA]TRA]WJA]TRJ]TRA17098132   2364
+Msg:-------------
+2023-02-08 14:41:11 TFrmUserSoc.ProcessGateMsg1 ]TRA]XrA]TRA]TRA]TRA]TRA]TSY]TRA]TRA]WRA]TP@]TRA17098132/榄傛贰   2364
+Msg:-------------
+2023-02-08 14:41:12 TFrmDBSrv.LoadHumanRcd1 17098132-1675836675005159214,10.42.0.96,4,1,0
+Msg:-------------
+2023-02-08 14:41:14:073 >>>SaveData: 17098132, 1675836675005159214
+Msg:-------------
+2023-02-08 14:41:14 >>TDataThread.OnMsg 1675836675005159214
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+Msg:-------------
+2023-02-08 14:51:14:133 >>>SaveData: 17098132, 1675836675005159214
+Msg:-------------
+2023-02-08 14:51:14 >>TDataThread.OnMsg 1675836675005159214
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+Msg:-------------
+2023-02-08 14:55:53 TFrmUserSoc.ProcessGateMsg1 ]TRA]TNA]TRA]TRA]TRA]TRA]TQi]TRA]TRA]OJA]TRA]TRA17098132/5/210/1/0   1816
+Msg:-------------
+2023-02-08 14:55:53 查询人物 17098132/5/210/1/0  10.42.0.96
+Msg:-------------
+2023-02-08 14:55:55 TFrmUserSoc.ProcessGateMsg1 ]TRA]RjA]TRA]TRA]TRA]TRA]TQi]TRA]TRA]WJA]TRJ]TRA17098132   1816
+Msg:-------------
+2023-02-08 14:55:55 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TQi]TRA]TRA]TRA]TP@]TRA   1816
+Msg:-------------
+2023-02-08 14:55:57 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TQi]TRA]TRA]TRA]TRH]TRA   1816
+Msg:-------------
+2023-02-08 14:55:58 TFrmUserSoc.ProcessGateMsg1 ]TRA]NJA]TRA]TRA]TRA]TRA]TQi]TRA]TRA]NjA]TSY]TRA1675836631005158612   1816
+Msg:-------------
+2023-02-08 14:55:58 TFrmUserSoc.ProcessGateMsg1 ]TRA]RjA]TRA]TRA]TRA]TRA]TQi]TRA]TRA]WJA]TQi]TRA17098132   1816
+Msg:-------------
+2023-02-08 14:55:59 TFrmUserSoc.ProcessGateMsg1 =DRA]YvA]TRA]TRA]TRA]TRA]TQi]TRA]TRA]TRA]TQf]TRA   1816
+Msg:-------------
+2023-02-08 14:55:59 TFrmUserSoc.ProcessGateMsg1 ]TRA]S>A]TRA]TRA]TRA]TRA]TQi]TRA]TRA]RbA]TSh]TRA{"server_name":"210","sex":0,"secsdk":"0","account":17098132,"job":2,"chr":"娈嬪墤鑻ユ棤鐥?,"sdkid":"1"}   1816
+Msg:-------------
+2023-02-08 14:56:00 TFrmUserSoc.ProcessGateMsg1 ]TRA]XrA]TRA]TRA]TRA]TRA]TQi]TRA]TRA]ZZA]TRo]TRA17098132/娈嬪墤鑻ユ棤鐥?  1816
+Msg:-------------
+2023-02-08 14:56:00 TFrmDBSrv.LoadHumanRcd1 17098132-1675839360005160810,10.42.0.96,5,1,0
+Msg:-------------
+2023-02-08 14:56:01:348 >>>SaveData: 17098132, 1675839360005160810
+Msg:-------------
+2023-02-08 14:56:01 >>TDataThread.OnMsg 1675839360005160810
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0

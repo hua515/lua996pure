@@ -1,0 +1,712 @@
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+Msg:-------------
+2023-02-08 15:03:34 TFrmUserSoc.ProcessGateMsg1 ]TRA]TNA]TRA]TRA]TRA]TRA]TQf]TRA]TRA]OJA]TRA]TRA17098132/6/210/1/0   2364
+Msg:-------------
+2023-02-08 15:03:34 查询人物 17098132/6/210/1/0  10.42.0.96
+Msg:-------------
+2023-02-08 15:03:35 TFrmUserSoc.ProcessGateMsg1 ]TRA]RjA]TRA]TRA]TRA]TRA]TQf]TRA]TRA]WJA]TRJ]TRA17098132   2364
+Msg:-------------
+2023-02-08 15:03:36 TFrmUserSoc.ProcessGateMsg1 ]TRA]XrA]TRA]TRA]TRA]TRA]TQf]TRA]TRA]ZZA]TP@]TRA17098132/娈嬪墤鑻ユ棤鐥?  2364
+Msg:-------------
+2023-02-08 15:03:36 TFrmDBSrv.LoadHumanRcd1 17098132-1675839360005160810,10.42.0.96,6,1,0
+Msg:-------------
+2023-02-08 15:03:37:698 >>>SaveData: 17098132, 1675839360005160810
+Msg:-------------
+2023-02-08 15:03:37 >>TDataThread.OnMsg 1675839360005160810
+剩余待处理保存数据：0
+Msg:-------------
+2023-02-08 15:03:50 TFrmUserSoc.ProcessGateMsg1 ]TRA]TNA]TRA]TRA]TRA]TRA]TSh]TRA]TRA]OJA]TRA]TRA19311703/7/210/1/0   1280
+Msg:-------------
+2023-02-08 15:03:50 查询人物 19311703/7/210/1/0  10.42.0.96
+Msg:-------------
+2023-02-08 15:03:51 TFrmUserSoc.ProcessGateMsg1 _dRA]YvA]TRJ]TRA]TRA]TRA]TSh]TRA]TRA]TRA]TRJ]TRA   1280
+Msg:-------------
+2023-02-08 15:03:51 TFrmUserSoc.ProcessGateMsg1 ]TRA]RjA]TRA]TRA]TRA]TRA]TSh]TRA]TRA]WJA]TP@]TRA19311703   1280
+Msg:-------------
+2023-02-08 15:03:52 TFrmUserSoc.ProcessGateMsg1 ]TRA]S>A]TRA]TRA]TRA]TRA]TSh]TRA]TRA]XnA]TRH]TRA{"server_name":"210","sex":1,"secsdk":"0","account":19311703,"job":1,"chr":"濂氬崐楝?,"sdkid":"1"}   1280
+Msg:-------------
+2023-02-08 15:03:52 TFrmUserSoc.ProcessGateMsg1 ]TRA]XrA]TRA]TRA]TRA]TRA]TSh]TRA]TRA]OJA]TSY]TRA19311703/濂氬崐楝?  1280
+Msg:-------------
+2023-02-08 15:03:52 TFrmDBSrv.LoadHumanRcd1 19311703-1675839832005161884,10.42.0.96,7,1,0
+Msg:-------------
+2023-02-08 15:03:53:970 >>>SaveData: 19311703, 1675839832005161884
+Msg:-------------
+2023-02-08 15:03:53 >>TDataThread.OnMsg 1675839832005161884
+Msg:-------------
+2023-02-08 15:04:00 TFrmUserSoc.ProcessGateMsg1 ]TRA]TNA]TRA]TRA]TRA]TRA]TRo]TRA]TRA]OJA]TRA]TRA19311703/8/210/1/0   1280
+Msg:-------------
+2023-02-08 15:04:00 查询人物 19311703/8/210/1/0  10.42.0.96
+Msg:-------------
+2023-02-08 15:04:01 TFrmUserSoc.ProcessGateMsg1 ]TRA]RjA]TRA]TRA]TRA]TRA]TRo]TRA]TRA]WJA]TRJ]TRA19311703   1280
+Msg:-------------
+2023-02-08 15:04:02 TFrmUserSoc.ProcessGateMsg1 ]TRA]YvA]TRA]TRA]TRA]TRA]TRo]TRA]TRA]TRA]TP@]TRA   1280
+Msg:-------------
+2023-02-08 15:04:03 TFrmUserSoc.ProcessGateMsg1 ]TRA]S>A]TRA]TRA]TRA]TRA]TRo]TRA]TRA]RjA]TRH]TRA{"server_name":"210","sex":0,"secsdk":"0","account":19311703,"job":0,"chr":"鎴氱绾х鐐墜","sdkid":"1"}   1280
+Msg:-------------
+2023-02-08 15:04:03 TFrmUserSoc.ProcessGateMsg1 ]TRA]XrA]TRA]TRA]TRA]TRA]TRo]TRA]TRA]MnA]TSY]TRA19311703/鎴氱绾х鐐墜   1280
+Msg:-------------
+2023-02-08 15:04:04 TFrmDBSrv.LoadHumanRcd1 19311703-1675839843005162181,10.42.0.96,8,1,0
+Msg:-------------
+2023-02-08 15:04:05:075 >>>SaveData: 19311703, 1675839843005162181
+Msg:-------------
+2023-02-08 15:04:05 >>TDataThread.OnMsg 1675839843005162181
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+Msg:-------------
+2023-02-08 15:14:05:079 >>>SaveData: 19311703, 1675839843005162181
+Msg:-------------
+2023-02-08 15:14:05 >>TDataThread.OnMsg 1675839843005162181
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+Msg:-------------
+2023-02-08 15:24:05:168 >>>SaveData: 19311703, 1675839843005162181
+Msg:-------------
+2023-02-08 15:24:05 >>TDataThread.OnMsg 1675839843005162181
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+Msg:-------------
+2023-02-08 15:36:55 TFrmUserSoc.ProcessGateMsg1 ]TRA]TNA]TRA]TRA]TRA]TRA]TQs]TRA]TRA]OJA]TRA]TRA19311703/9/210/1/0   2360
+Msg:-------------
+2023-02-08 15:36:55 查询人物 19311703/9/210/1/0  10.42.0.96
+Msg:-------------
+2023-02-08 15:36:57 TFrmUserSoc.ProcessGateMsg1 ]TRA]RjA]TRA]TRA]TRA]TRA]TQs]TRA]TRA]WJA]TRJ]TRA19311703   2360
+Msg:-------------
+2023-02-08 15:36:57 TFrmUserSoc.ProcessGateMsg1 ]TRA]XrA]TRA]TRA]TRA]TRA]TQs]TRA]TRA]MnA]TP@]TRA19311703/鎴氱绾х鐐墜   2360
+Msg:-------------
+2023-02-08 15:36:57 TFrmDBSrv.LoadHumanRcd1 19311703-1675839843005162181,10.42.0.96,9,1,0
+Msg:-------------
+2023-02-08 15:37:00:090 >>>SaveData: 19311703, 1675839843005162181
+Msg:-------------
+2023-02-08 15:37:00 >>TDataThread.OnMsg 1675839843005162181
+Msg:-------------
+2023-02-08 15:37:06 TFrmUserSoc.ProcessGateMsg1 ]TRA]TNA]TRA]TRA]TRA]TRA]TRm]TRA]TRA]NjA]TRA]TRA19311703/10/210/1/0   2360
+Msg:-------------
+2023-02-08 15:37:06 查询人物 19311703/10/210/1/0  10.42.0.96
+Msg:-------------
+2023-02-08 15:37:07 TFrmUserSoc.ProcessGateMsg1 ]TRA]RjA]TRA]TRA]TRA]TRA]TRm]TRA]TRA]WJA]TRJ]TRA19311703   2360
+Msg:-------------
+2023-02-08 15:37:09 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRm]TRA]TRA]TRA]TP@]TRA   2360
+Msg:-------------
+2023-02-08 15:37:09 TFrmUserSoc.ProcessGateMsg1 ]TRA]NJA]TRA]TRA]TRA]TRA]TRm]TRA]TRA]NjA]TRH]TRA1675839843005162181   2360
+Msg:-------------
+2023-02-08 15:37:09 TFrmUserSoc.ProcessGateMsg1 ]TRA]RjA]TRA]TRA]TRA]TRA]TRm]TRA]TRA]WJA]TSY]TRA19311703   2360
+剩余待处理保存数据：0
+Msg:-------------
+2023-02-08 15:37:10 TFrmUserSoc.ProcessGateMsg1 ]TRA]NJA]TRA]TRA]TRA]TRA]TRm]TRA]TRA]NjA]TQi]TRA1675839832005161884   2360
+Msg:-------------
+2023-02-08 15:37:10 TFrmUserSoc.ProcessGateMsg1 ]TRA]RjA]TRA]TRA]TRA]TRA]TRm]TRA]TRA]WJA]TQf]TRA19311703   2360
+Msg:-------------
+2023-02-08 15:37:11 TFrmUserSoc.ProcessGateMsg1 ]TRA]YvA]TRJ]TRA]TRA]TRA]TRm]TRA]TRA]TRA]TSh]TRA   2360
+Msg:-------------
+2023-02-08 15:37:13 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRm]TRA]TRA]TRA]TRo]TRA   2360
+Msg:-------------
+2023-02-08 15:37:15 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRm]TRA]TRA]TRA]TQs]TRA   2360
+Msg:-------------
+2023-02-08 15:37:15 TFrmUserSoc.ProcessGateMsg1 ]TRA]S>A]TRA]TRA]TRA]TRA]TRm]TRA]TRA]NJA]TRm]TRA{"server_name":"210","sex":0,"secsdk":"0","account":19311703,"job":0,"chr":"鍔ｄ汉浼犺","sdkid":"1"}   2360
+Msg:-------------
+2023-02-08 15:37:15 TFrmUserSoc.ProcessGateMsg1 ]TRA]XrA]TRA]TRA]TRA]TRA]TRm]TRA]TRA]N^A]TQ]]TRA19311703/鍔ｄ汉浼犺   2360
+Msg:-------------
+2023-02-08 15:37:15 TFrmDBSrv.LoadHumanRcd1 19311703-1675841835005163601,10.42.0.96,10,1,0
+Msg:-------------
+2023-02-08 15:37:16:638 >>>SaveData: 19311703, 1675841835005163601
+Msg:-------------
+2023-02-08 15:37:16 >>TDataThread.OnMsg 1675841835005163601
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+Msg:-------------
+2023-02-08 15:38:52 TFrmUserSoc.ProcessGateMsg1 ]TRA]TNA]TRA]TRA]TRA]TRA]TQ]]TRA]TRA]NjA]TRA]TRA19311703/11/210/1/0   1880
+Msg:-------------
+2023-02-08 15:38:52 查询人物 19311703/11/210/1/0  10.42.0.96
+Msg:-------------
+2023-02-08 15:38:54 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TQ]]TRA]TRA]TRA]TRJ]TRA   1880
+Msg:-------------
+2023-02-08 15:38:54 TFrmUserSoc.ProcessGateMsg1 ]TRA]RjA]TRA]TRA]TRA]TRA]TQ]]TRA]TRA]WJA]TP@]TRA19311703   1880
+Msg:-------------
+2023-02-08 15:38:55 TFrmUserSoc.ProcessGateMsg1 ]TRA]XrA]TRA]TRA]TRA]TRA]TQ]]TRA]TRA]N^A]TRH]TRA19311703/鍔ｄ汉浼犺   1880
+Msg:-------------
+2023-02-08 15:38:56 TFrmDBSrv.LoadHumanRcd1 19311703-1675841835005163601,10.42.0.96,11,1,0
+Msg:-------------
+2023-02-08 15:38:57:179 >>>SaveData: 19311703, 1675841835005163601
+Msg:-------------
+2023-02-08 15:38:57 >>TDataThread.OnMsg 1675841835005163601
+Msg:-------------
+2023-02-08 15:39:03 TFrmUserSoc.ProcessGateMsg1 ]TRA]TNA]TRA]TRA]TRA]TRA]TRP]TRA]TRA]NjA]TRA]TRA19311703/12/210/1/0   716
+Msg:-------------
+2023-02-08 15:39:03 查询人物 19311703/12/210/1/0  10.42.0.96
+Msg:-------------
+2023-02-08 15:39:04 TFrmUserSoc.ProcessGateMsg1 ]TRA]RjA]TRA]TRA]TRA]TRA]TRP]TRA]TRA]WJA]TRJ]TRA19311703   716
+Msg:-------------
+2023-02-08 15:39:05 TFrmUserSoc.ProcessGateMsg1 ]TRA]NJA]TRA]TRA]TRA]TRA]TRP]TRA]TRA]NjA]TP@]TRA1675841835005163601   716
+Msg:-------------
+2023-02-08 15:39:05 TFrmUserSoc.ProcessGateMsg1 ]TRA]RjA]TRA]TRA]TRA]TRA]TRP]TRA]TRA]WJA]TRH]TRA19311703   716
+Msg:-------------
+2023-02-08 15:39:06 TFrmUserSoc.ProcessGateMsg1 ]TRA]YvA]TRA]TRA]TRA]TRA]TRP]TRA]TRA]TRA]TSY]TRA   716
+Msg:-------------
+2023-02-08 15:39:08 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRP]TRA]TRA]TRA]TQi]TRA   716
+Msg:-------------
+2023-02-08 15:39:10 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRP]TRA]TRA]TRA]TQf]TRA   716
+剩余待处理保存数据：0
+Msg:-------------
+2023-02-08 15:39:11 TFrmUserSoc.ProcessGateMsg1 _dRA]YvA]TRA]TRA]TRA]TRA]TRP]TRA]TRA]TRA]TSh]TRA   716
+Msg:-------------
+2023-02-08 15:39:13 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRP]TRA]TRA]TRA]TRo]TRA   716
+Msg:-------------
+2023-02-08 15:39:14 TFrmUserSoc.ProcessGateMsg1 _dRA]YvA]TRJ]TRA]TRA]TRA]TRP]TRA]TRA]TRA]TQs]TRA   716
+Msg:-------------
+2023-02-08 15:39:16 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRP]TRA]TRA]TRA]TRm]TRA   716
+Msg:-------------
+2023-02-08 15:39:18 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRP]TRA]TRA]TRA]TQ]]TRA   716
+Msg:-------------
+2023-02-08 15:39:20 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRP]TRA]TRA]TRA]TRP]TRA   716
+Msg:-------------
+2023-02-08 15:39:22 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRP]TRA]TRA]TRA]TRR]TRA   716
+Msg:-------------
+2023-02-08 15:39:24 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRP]TRA]TRA]TRA]TSx]TRA   716
+Msg:-------------
+2023-02-08 15:39:26 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRP]TRA]TRA]TRA]TRq]TRA   716
+Msg:-------------
+2023-02-08 15:39:28 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRP]TRA]TRA]TRA]TRe]TRA   716
+Msg:-------------
+2023-02-08 15:39:30 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRP]TRA]TRA]TRA]TSf]TRA   716
+Msg:-------------
+2023-02-08 15:39:32 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRP]TRA]TRA]TRA]TPo]TRA   716
+Msg:-------------
+2023-02-08 15:39:34 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRP]TRA]TRA]TRA]TPg]TRA   716
+Msg:-------------
+2023-02-08 15:39:36 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRP]TRA]TRA]TRA]TPL]TRA   716
+Msg:-------------
+2023-02-08 15:39:38 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRP]TRA]TRA]TRA]TPd]TRA   716
+Msg:-------------
+2023-02-08 15:39:40 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRP]TRA]TRA]TRA]TPl]TRA   716
+剩余待处理保存数据：0
+Msg:-------------
+2023-02-08 15:39:42 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRP]TRA]TRA]TRA]TQm]TRA   716
+Msg:-------------
+2023-02-08 15:39:44 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRP]TRA]TRA]TRA]TSc]TRA   716
+Msg:-------------
+2023-02-08 15:39:46 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRP]TRA]TRA]TRA]TPj]TRA   716
+Msg:-------------
+2023-02-08 15:39:48 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRP]TRA]TRA]TRA]TP{]TRA   716
+Msg:-------------
+2023-02-08 15:39:50 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRP]TRA]TRA]TRA]TPX]TRA   716
+Msg:-------------
+2023-02-08 15:39:52 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRP]TRA]TRA]TRA]TQy]TRA   716
+Msg:-------------
+2023-02-08 15:39:54 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRP]TRA]TRA]TRA]TSJ]TRA   716
+Msg:-------------
+2023-02-08 15:39:56 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRP]TRA]TRA]TRA]TRZ]TRA   716
+Msg:-------------
+2023-02-08 15:39:58 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRP]TRA]TRA]TRA]TS<]TRA   716
+Msg:-------------
+2023-02-08 15:40:00 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRP]TRA]TRA]TRA]TSC]TRA   716
+Msg:-------------
+2023-02-08 15:40:02 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRP]TRA]TRA]TRA]TSg]TRA   716
+Msg:-------------
+2023-02-08 15:40:04 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRP]TRA]TRA]TRA]TQn]TRA   716
+Msg:-------------
+2023-02-08 15:40:06 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRP]TRA]TRA]TRA]TQA]TRA   716
+Msg:-------------
+2023-02-08 15:40:08 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRP]TRA]TRA]TRA]TRM]TRA   716
+Msg:-------------
+2023-02-08 15:40:10 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRP]TRA]TRA]TRA]TRd]TRA   716
+剩余待处理保存数据：0
+Msg:-------------
+2023-02-08 15:40:12 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRP]TRA]TRA]TRA]TSG]TRA   716
+Msg:-------------
+2023-02-08 15:40:14 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRP]TRA]TRA]TRA]TQL]TRA   716
+Msg:-------------
+2023-02-08 15:40:16 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRP]TRA]TRA]TRA]TQD]TRA   716
+Msg:-------------
+2023-02-08 15:40:18 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRP]TRA]TRA]TRA]TSE]TRA   716
+Msg:-------------
+2023-02-08 15:40:20 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRP]TRA]TRA]TRA]TPS]TRA   716
+Msg:-------------
+2023-02-08 15:40:22 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRP]TRA]TRA]TRA]TPc]TRA   716
+Msg:-------------
+2023-02-08 15:40:24 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRP]TRA]TRA]TRA]TRX]TRA   716
+Msg:-------------
+2023-02-08 15:40:26 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRP]TRA]TRA]TRA]TS^]TRA   716
+Msg:-------------
+2023-02-08 15:40:28 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRP]TRA]TRA]TRA]TSS]TRA   716
+Msg:-------------
+2023-02-08 15:40:30 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRP]TRA]TRA]TRA]TQ\]TRA   716
+Msg:-------------
+2023-02-08 15:40:32 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRP]TRA]TRA]TRA]TPP]TRA   716
+Msg:-------------
+2023-02-08 15:40:34 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRP]TRA]TRA]TRA]TQN]TRA   716
+Msg:-------------
+2023-02-08 15:40:36 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRP]TRA]TRA]TRA]TQV]TRA   716
+Msg:-------------
+2023-02-08 15:40:38 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRP]TRA]TRA]TRA]TSO]TRA   716
+Msg:-------------
+2023-02-08 15:40:40 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRP]TRA]TRA]TRA]TSy]TRA   716
+剩余待处理保存数据：0
+Msg:-------------
+2023-02-08 15:40:42 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRP]TRA]TRA]TRA]TP?]TRA   716
+Msg:-------------
+2023-02-08 15:40:44 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRP]TRA]TRA]TRA]TQB]TRA   716
+Msg:-------------
+2023-02-08 15:40:46 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRP]TRA]TRA]TRA]TRn]TRA   716
+Msg:-------------
+2023-02-08 15:40:48 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRP]TRA]TRA]TRA]TRz]TRA   716
+Msg:-------------
+2023-02-08 15:40:50 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRP]TRA]TRA]TRA]TPi]TRA   716
+Msg:-------------
+2023-02-08 15:40:52 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRP]TRA]TRA]TRA]TPv]TRA   716
+Msg:-------------
+2023-02-08 15:40:54 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRP]TRA]TRA]TRA]TPB]TRA   716
+Msg:-------------
+2023-02-08 15:40:56 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRP]TRA]TRA]TRA]TS=]TRA   716
+Msg:-------------
+2023-02-08 15:40:58 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRP]TRA]TRA]TRA]TRI]TRA   716
+Msg:-------------
+2023-02-08 15:41:00 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRP]TRA]TRA]TRA]TP\]TRA   716
+Msg:-------------
+2023-02-08 15:41:02 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRP]TRA]TRA]TRA]TR<]TRA   716
+Msg:-------------
+2023-02-08 15:41:04 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRP]TRA]TRA]TRA]TPq]TRA   716
+Msg:-------------
+2023-02-08 15:41:06 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRP]TRA]TRA]TRA]TPQ]TRA   716
+Msg:-------------
+2023-02-08 15:41:08 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRP]TRA]TRA]TRA]TP=]TRA   716
+Msg:-------------
+2023-02-08 15:41:10 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRP]TRA]TRA]TRA]TQ<]TRA   716
+剩余待处理保存数据：0
+Msg:-------------
+2023-02-08 15:41:12 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRP]TRA]TRA]TRA]TSK]TRA   716
+Msg:-------------
+2023-02-08 15:41:14 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRP]TRA]TRA]TRA]TSs]TRA   716
+Msg:-------------
+2023-02-08 15:41:16 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRP]TRA]TRA]TRA]TSA]TRA   716
+Msg:-------------
+2023-02-08 15:41:18 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRP]TRA]TRA]TRA]TPf]TRA   716
+Msg:-------------
+2023-02-08 15:41:20 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRP]TRA]TRA]TRA]TPs]TRA   716
+剩余待处理保存数据：0
+Msg:-------------
+2023-02-08 15:41:43 TFrmUserSoc.ProcessGateMsg1 ]TRA]TNA]TRA]TRA]TRA]TRA]TRR]TRA]TRA]NjA]TRA]TRA19311703/13/210/1/0   1280
+Msg:-------------
+2023-02-08 15:41:43 查询人物 19311703/13/210/1/0  10.42.0.96
+Msg:-------------
+2023-02-08 15:41:43 TFrmUserSoc.ProcessGateMsg1 ]TRA]TNA]TRA]TRA]TRA]TRA]TRq]TRA]TRA]NjA]TRA]TRA19311703/15/210/1/0   1880
+Msg:-------------
+2023-02-08 15:41:43 查询人物 19311703/15/210/1/0  10.42.0.96
+Msg:-------------
+2023-02-08 15:41:44 TFrmUserSoc.ProcessGateMsg1 _dRA]YvA]TRA]TRA]TRA]TRA]TRq]TRA]TRA]TRA]TRJ]TRA   1880
+Msg:-------------
+2023-02-08 15:41:44 TFrmUserSoc.ProcessGateMsg1 ]TRA]RjA]TRA]TRA]TRA]TRA]TRq]TRA]TRA]WJA]TP@]TRA19311703   1880
+Msg:-------------
+2023-02-08 15:41:46 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRq]TRA]TRA]TRA]TRH]TRA   1880
+Msg:-------------
+2023-02-08 15:41:48 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRq]TRA]TRA]TRA]TSY]TRA   1880
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+Msg:-------------
+2023-02-08 15:43:52 TFrmUserSoc.ProcessGateMsg1 ]TRA]TNA]TRA]TRA]TRA]TRA]TRe]TRA]TRA]NjA]TRA]TRA19311703/16/210/1/0   1816
+Msg:-------------
+2023-02-08 15:43:52 查询人物 19311703/16/210/1/0  10.42.0.96
+Msg:-------------
+2023-02-08 15:43:53 TFrmUserSoc.ProcessGateMsg1 =DRA]YvA]TRA]TRA]TRA]TRA]TRe]TRA]TRA]TRA]TRJ]TRA   1816
+Msg:-------------
+2023-02-08 15:43:53 TFrmUserSoc.ProcessGateMsg1 ]TRA]RjA]TRA]TRA]TRA]TRA]TRe]TRA]TRA]WJA]TP@]TRA19311703   1816
+Msg:-------------
+2023-02-08 15:43:55 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRe]TRA]TRA]TRA]TRH]TRA   1816
+Msg:-------------
+2023-02-08 15:43:57 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRe]TRA]TRA]TRA]TSY]TRA   1816
+Msg:-------------
+2023-02-08 15:43:57 TFrmUserSoc.ProcessGateMsg1 =DRA]YvA]TRA]TRA]TRA]TRA]TRe]TRA]TRA]TRA]TQi]TRA   1816
+Msg:-------------
+2023-02-08 15:43:59 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRe]TRA]TRA]TRA]TQf]TRA   1816
+Msg:-------------
+2023-02-08 15:43:59 TFrmUserSoc.ProcessGateMsg1 =DRA]YvA]TRJ]TRA]TRA]TRA]TRe]TRA]TRA]TRA]TSh]TRA   1816
+Msg:-------------
+2023-02-08 15:44:01 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRe]TRA]TRA]TRA]TRo]TRA   1816
+Msg:-------------
+2023-02-08 15:44:02 TFrmUserSoc.ProcessGateMsg1 =DRA]YvA]TRA]TRA]TRA]TRA]TRe]TRA]TRA]TRA]TQs]TRA   1816
+Msg:-------------
+2023-02-08 15:44:04 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRe]TRA]TRA]TRA]TRm]TRA   1816
+Msg:-------------
+2023-02-08 15:44:06 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRe]TRA]TRA]TRA]TQ]]TRA   1816
+Msg:-------------
+2023-02-08 15:44:08 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRe]TRA]TRA]TRA]TRP]TRA   1816
+Msg:-------------
+2023-02-08 15:44:10 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TRe]TRA]TRA]TRA]TRR]TRA   1816
+Msg:-------------
+2023-02-08 15:44:10 TFrmUserSoc.ProcessGateMsg1 ]TRA]S>A]TRA]TRA]TRA]TRA]TRe]TRA]TRA]XnA]TSx]TRA{"server_name":"210","sex":0,"secsdk":"0","account":19311703,"job":0,"chr":"瀵囨ゼ鎷?,"sdkid":"1"}   1816
+Msg:-------------
+2023-02-08 15:44:10 TFrmUserSoc.ProcessGateMsg1 ]TRA]XrA]TRA]TRA]TRA]TRA]TRe]TRA]TRA]OJA]TRq]TRA19311703/瀵囨ゼ鎷?  1816
+Msg:-------------
+2023-02-08 15:44:10 TFrmDBSrv.LoadHumanRcd1 19311703-1675842250005164450,10.42.0.96,16,1,0
+剩余待处理保存数据：0
+Msg:-------------
+2023-02-08 15:44:12:043 >>>SaveData: 19311703, 1675842250005164450
+Msg:-------------
+2023-02-08 15:44:12 >>TDataThread.OnMsg 1675842250005164450
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+Msg:-------------
+2023-02-08 15:49:14 TFrmUserSoc.ProcessGateMsg1 ]TRA]TNA]TRA]TRA]TRA]TRA]TSf]TRA]TRA]NjA]TRA]TRA19311703/17/210/1/0   2168
+Msg:-------------
+2023-02-08 15:49:14 查询人物 19311703/17/210/1/0  10.42.0.96
+Msg:-------------
+2023-02-08 15:49:15 TFrmUserSoc.ProcessGateMsg1 ]TRA]RjA]TRA]TRA]TRA]TRA]TSf]TRA]TRA]WJA]TRJ]TRA19311703   2168
+Msg:-------------
+2023-02-08 15:49:17 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TSf]TRA]TRA]TRA]TP@]TRA   2168
+Msg:-------------
+2023-02-08 15:49:17 TFrmUserSoc.ProcessGateMsg1 ]TRA]XrA]TRA]TRA]TRA]TRA]TSf]TRA]TRA]OJA]TRH]TRA19311703/瀵囨ゼ鎷?  2168
+Msg:-------------
+2023-02-08 15:49:17 TFrmDBSrv.LoadHumanRcd1 19311703-1675842250005164450,10.42.0.96,17,1,0
+Msg:-------------
+2023-02-08 15:49:18:839 >>>SaveData: 19311703, 1675842250005164450
+Msg:-------------
+2023-02-08 15:49:18 >>TDataThread.OnMsg 1675842250005164450
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+Msg:-------------
+2023-02-08 15:50:18 TFrmUserSoc.ProcessGateMsg1 ]TRA]TNA]TRA]TRA]TRA]TRA]TPo]TRA]TRA]NjA]TRA]TRA19311703/18/210/1/0   716
+Msg:-------------
+2023-02-08 15:50:18 查询人物 19311703/18/210/1/0  10.42.0.96
+Msg:-------------
+2023-02-08 15:50:19 TFrmUserSoc.ProcessGateMsg1 ]TRA]RjA]TRA]TRA]TRA]TRA]TPo]TRA]TRA]WJA]TRJ]TRA19311703   716
+Msg:-------------
+2023-02-08 15:50:20 TFrmUserSoc.ProcessGateMsg1 ]TRA]XrA]TRA]TRA]TRA]TRA]TPo]TRA]TRA]OJA]TP@]TRA19311703/瀵囨ゼ鎷?  716
+Msg:-------------
+2023-02-08 15:50:20 TFrmDBSrv.LoadHumanRcd1 19311703-1675842250005164450,10.42.0.96,18,1,0
+Msg:-------------
+2023-02-08 15:50:21:165 >>>SaveData: 19311703, 1675842250005164450
+Msg:-------------
+2023-02-08 15:50:21 >>TDataThread.OnMsg 1675842250005164450
+Msg:-------------
+2023-02-08 15:50:26 TFrmUserSoc.ProcessGateMsg1 ]TRA]TNA]TRA]TRA]TRA]TRA]TPg]TRA]TRA]NjA]TRA]TRA19311703/19/210/1/0   2368
+Msg:-------------
+2023-02-08 15:50:26 查询人物 19311703/19/210/1/0  10.42.0.96
+Msg:-------------
+2023-02-08 15:50:27 TFrmUserSoc.ProcessGateMsg1 ]TRA]RjA]TRA]TRA]TRA]TRA]TPg]TRA]TRA]WJA]TRJ]TRA19311703   2368
+Msg:-------------
+2023-02-08 15:50:28 TFrmUserSoc.ProcessGateMsg1 _dRA]YvA]TRJ]TRA]TRA]TRA]TPg]TRA]TRA]TRA]TP@]TRA   2368
+Msg:-------------
+2023-02-08 15:50:30 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPg]TRA]TRA]TRA]TRH]TRA   2368
+Msg:-------------
+2023-02-08 15:50:30 TFrmUserSoc.ProcessGateMsg1 ]TRA]S>A]TRA]TRA]TRA]TRA]TPg]TRA]TRA]XnA]TSY]TRA{"server_name":"210","sex":0,"secsdk":"0","account":19311703,"job":0,"chr":"娆у槈鐜?,"sdkid":"1"}   2368
+Msg:-------------
+2023-02-08 15:50:30 TFrmUserSoc.ProcessGateMsg1 ]TRA]XrA]TRA]TRA]TRA]TRA]TPg]TRA]TRA]OJA]TQi]TRA19311703/娆у槈鐜?  2368
+Msg:-------------
+2023-02-08 15:50:30 TFrmDBSrv.LoadHumanRcd1 19311703-1675842630005165712,10.42.0.96,19,1,0
+Msg:-------------
+2023-02-08 15:50:31:682 >>>SaveData: 19311703, 1675842630005165712
+Msg:-------------
+2023-02-08 15:50:31 >>TDataThread.OnMsg 1675842630005165712
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+剩余待处理保存数据：0
+Msg:-------------
+2023-02-08 15:56:22 TFrmUserSoc.ProcessGateMsg1 ]TRA]TNA]TRA]TRA]TRA]TRA]TPL]TRA]TRA]NjA]TRA]TRA19311703/20/210/1/0   2168
+Msg:-------------
+2023-02-08 15:56:22 查询人物 19311703/20/210/1/0  10.42.0.96
+Msg:-------------
+2023-02-08 15:56:23 TFrmUserSoc.ProcessGateMsg1 ]TRA]RjA]TRA]TRA]TRA]TRA]TPL]TRA]TRA]WJA]TRJ]TRA19311703   2168
+Msg:-------------
+2023-02-08 15:56:25 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TP@]TRA   2168
+Msg:-------------
+2023-02-08 15:56:27 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TRH]TRA   2168
+Msg:-------------
+2023-02-08 15:56:29 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TSY]TRA   2168
+Msg:-------------
+2023-02-08 15:56:31 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TQi]TRA   2168
+Msg:-------------
+2023-02-08 15:56:33 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TQf]TRA   2168
+Msg:-------------
+2023-02-08 15:56:35 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TSh]TRA   2168
+Msg:-------------
+2023-02-08 15:56:37 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TRo]TRA   2168
+Msg:-------------
+2023-02-08 15:56:39 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TQs]TRA   2168
+Msg:-------------
+2023-02-08 15:56:41 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TRm]TRA   2168
+剩余待处理保存数据：0
+Msg:-------------
+2023-02-08 15:56:43 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TQ]]TRA   2168
+Msg:-------------
+2023-02-08 15:56:45 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TRP]TRA   2168
+Msg:-------------
+2023-02-08 15:56:47 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TRR]TRA   2168
+Msg:-------------
+2023-02-08 15:56:49 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TSx]TRA   2168
+Msg:-------------
+2023-02-08 15:56:51 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TRq]TRA   2168
+Msg:-------------
+2023-02-08 15:56:53 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TRe]TRA   2168
+Msg:-------------
+2023-02-08 15:56:55 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TSf]TRA   2168
+Msg:-------------
+2023-02-08 15:56:57 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TPo]TRA   2168
+Msg:-------------
+2023-02-08 15:56:59 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TPg]TRA   2168
+Msg:-------------
+2023-02-08 15:57:01 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TPL]TRA   2168
+Msg:-------------
+2023-02-08 15:57:03 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TPd]TRA   2168
+Msg:-------------
+2023-02-08 15:57:05 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TPl]TRA   2168
+Msg:-------------
+2023-02-08 15:57:07 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TQm]TRA   2168
+Msg:-------------
+2023-02-08 15:57:09 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TSc]TRA   2168
+Msg:-------------
+2023-02-08 15:57:11 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TPj]TRA   2168
+剩余待处理保存数据：0
+Msg:-------------
+2023-02-08 15:57:13 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TP{]TRA   2168
+Msg:-------------
+2023-02-08 15:57:15 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TPX]TRA   2168
+Msg:-------------
+2023-02-08 15:57:17 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TQy]TRA   2168
+Msg:-------------
+2023-02-08 15:57:19 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TSJ]TRA   2168
+Msg:-------------
+2023-02-08 15:57:21 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TRZ]TRA   2168
+Msg:-------------
+2023-02-08 15:57:23 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TS<]TRA   2168
+Msg:-------------
+2023-02-08 15:57:25 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TSC]TRA   2168
+Msg:-------------
+2023-02-08 15:57:27 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TSg]TRA   2168
+Msg:-------------
+2023-02-08 15:57:29 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TQn]TRA   2168
+Msg:-------------
+2023-02-08 15:57:31 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TQA]TRA   2168
+Msg:-------------
+2023-02-08 15:57:33 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TRM]TRA   2168
+Msg:-------------
+2023-02-08 15:57:35 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TRd]TRA   2168
+Msg:-------------
+2023-02-08 15:57:37 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TSG]TRA   2168
+Msg:-------------
+2023-02-08 15:57:39 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TQL]TRA   2168
+Msg:-------------
+2023-02-08 15:57:41 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TQD]TRA   2168
+剩余待处理保存数据：0
+Msg:-------------
+2023-02-08 15:57:43 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TSE]TRA   2168
+Msg:-------------
+2023-02-08 15:57:45 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TPS]TRA   2168
+Msg:-------------
+2023-02-08 15:57:47 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TPc]TRA   2168
+Msg:-------------
+2023-02-08 15:57:49 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TRX]TRA   2168
+Msg:-------------
+2023-02-08 15:57:51 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TS^]TRA   2168
+Msg:-------------
+2023-02-08 15:57:53 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TSS]TRA   2168
+Msg:-------------
+2023-02-08 15:57:55 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TQ\]TRA   2168
+Msg:-------------
+2023-02-08 15:57:57 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TPP]TRA   2168
+Msg:-------------
+2023-02-08 15:57:59 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TQN]TRA   2168
+Msg:-------------
+2023-02-08 15:58:01 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TQV]TRA   2168
+Msg:-------------
+2023-02-08 15:58:03 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TSO]TRA   2168
+Msg:-------------
+2023-02-08 15:58:05 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TSy]TRA   2168
+Msg:-------------
+2023-02-08 15:58:07 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TP?]TRA   2168
+Msg:-------------
+2023-02-08 15:58:09 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TQB]TRA   2168
+Msg:-------------
+2023-02-08 15:58:11 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TRn]TRA   2168
+剩余待处理保存数据：0
+Msg:-------------
+2023-02-08 15:58:13 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TRz]TRA   2168
+Msg:-------------
+2023-02-08 15:58:15 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TPi]TRA   2168
+Msg:-------------
+2023-02-08 15:58:17 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TPv]TRA   2168
+Msg:-------------
+2023-02-08 15:58:19 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TPB]TRA   2168
+Msg:-------------
+2023-02-08 15:58:21 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TS=]TRA   2168
+Msg:-------------
+2023-02-08 15:58:23 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TRI]TRA   2168
+Msg:-------------
+2023-02-08 15:58:25 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TP\]TRA   2168
+Msg:-------------
+2023-02-08 15:58:27 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TR<]TRA   2168
+Msg:-------------
+2023-02-08 15:58:29 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TPq]TRA   2168
+Msg:-------------
+2023-02-08 15:58:31 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TPQ]TRA   2168
+Msg:-------------
+2023-02-08 15:58:33 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TP=]TRA   2168
+Msg:-------------
+2023-02-08 15:58:35 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TQ<]TRA   2168
+Msg:-------------
+2023-02-08 15:58:37 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TSK]TRA   2168
+Msg:-------------
+2023-02-08 15:58:39 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TSs]TRA   2168
+Msg:-------------
+2023-02-08 15:58:41 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TSA]TRA   2168
+剩余待处理保存数据：0
+Msg:-------------
+2023-02-08 15:58:43 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TPf]TRA   2168
+Msg:-------------
+2023-02-08 15:58:45 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TPs]TRA   2168
+Msg:-------------
+2023-02-08 15:58:47 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TSd]TRA   2168
+Msg:-------------
+2023-02-08 15:58:49 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TQC]TRA   2168
+Msg:-------------
+2023-02-08 15:58:51 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TR>]TRA   2168
+Msg:-------------
+2023-02-08 15:58:53 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TPV]TRA   2168
+Msg:-------------
+2023-02-08 15:58:55 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TSj]TRA   2168
+Msg:-------------
+2023-02-08 15:58:57 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TPO]TRA   2168
+Msg:-------------
+2023-02-08 15:58:59 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TQP]TRA   2168
+Msg:-------------
+2023-02-08 15:59:01 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TSB]TRA   2168
+Msg:-------------
+2023-02-08 15:59:03 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TRt]TRA   2168
+Msg:-------------
+2023-02-08 15:59:05 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TQJ]TRA   2168
+Msg:-------------
+2023-02-08 15:59:07 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TRB]TRA   2168
+Msg:-------------
+2023-02-08 15:59:09 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TSM]TRA   2168
+Msg:-------------
+2023-02-08 15:59:11 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TQw]TRA   2168
+剩余待处理保存数据：0
+Msg:-------------
+2023-02-08 15:59:13 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TQ>]TRA   2168
+Msg:-------------
+2023-02-08 15:59:15 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TRV]TRA   2168
+Msg:-------------
+2023-02-08 15:59:17 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TQc]TRA   2168
+Msg:-------------
+2023-02-08 15:59:19 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TQv]TRA   2168
+Msg:-------------
+2023-02-08 15:59:21 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TQ@]TRA   2168
+Msg:-------------
+2023-02-08 15:59:23 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TRY]TRA   2168
+Msg:-------------
+2023-02-08 15:59:25 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TSP]TRA   2168
+Msg:-------------
+2023-02-08 15:59:27 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TRG]TRA   2168
+Msg:-------------
+2023-02-08 15:59:29 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TPY]TRA   2168
+Msg:-------------
+2023-02-08 15:59:31 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TRj]TRA   2168
+Msg:-------------
+2023-02-08 15:59:33 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TPF]TRA   2168
+Msg:-------------
+2023-02-08 15:59:35 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TSl]TRA   2168
+Msg:-------------
+2023-02-08 15:59:37 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TSt]TRA   2168
+Msg:-------------
+2023-02-08 15:59:39 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TSH]TRA   2168
+Msg:-------------
+2023-02-08 15:59:41 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TR@]TRA   2168
+剩余待处理保存数据：0
+Msg:-------------
+2023-02-08 15:59:43 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TQl]TRA   2168
+Msg:-------------
+2023-02-08 15:59:45 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TP_]TRA   2168
+Msg:-------------
+2023-02-08 15:59:47 TFrmUserSoc.ProcessGateMsg1 ]TRA]LgD]TRA]TRA]TRA]TRA]TPL]TRA]TRA]TRA]TSI]TRA   2168
+Msg:-------------
+2023-02-08 15:59:47 TFrmUserSoc.ProcessGateMsg1 ]TRA]XrA]TRA]TRA]TRA]TRA]TPL]TRA]TRA]OJA]TSQ]TRA19311703/娆у槈鐜?  2168
+Msg:-------------
+2023-02-08 15:59:47 TFrmDBSrv.LoadHumanRcd1 19311703-1675842630005165712,10.42.0.96,20,1,0
+Msg:-------------
+2023-02-08 15:59:47:964 >>>SaveData: 19311703, 1675842630005165712
+Msg:-------------
+2023-02-08 15:59:47 >>TDataThread.OnMsg 1675842630005165712

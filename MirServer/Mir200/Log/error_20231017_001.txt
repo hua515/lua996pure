@@ -1,0 +1,54 @@
+[2023-10-17 17:38:23:695]  - secret map not found !!
+[2023-10-17 17:38:23:695] [Error] UserCastle.Initialize MainDoor.UnitObj = nil
+[2023-10-17 17:38:23:695] [Error] UserCastle.Initialize LeftWall.UnitObj = nil
+[2023-10-17 17:38:23:695] [Error] UserCastle.Initialize CenterWall.UnitObj = nil
+[2023-10-17 17:38:23:695] [Error] UserCastle.Initialize RightWall.UnitObj = nil
+[2023-10-17 17:38:23:822] [Exception]TIdHttpBoxTitleThread.Execute Error1 {"code":"40006","data":[],"msg":"domain解析错误"}
+[2023-10-17 17:38:23:865] 盒子礼包:  {"code":500,"msg":"domain必传","time":"1697535504","data":[]}
+[2023-10-17 17:38:24:242] Socket Err:10061
+
+[2023-10-17 17:41:26:124]  - secret map not found !!
+[2023-10-17 17:41:26:124] [Error] UserCastle.Initialize MainDoor.UnitObj = nil
+[2023-10-17 17:41:26:124] [Error] UserCastle.Initialize LeftWall.UnitObj = nil
+[2023-10-17 17:41:26:124] [Error] UserCastle.Initialize CenterWall.UnitObj = nil
+[2023-10-17 17:41:26:124] [Error] UserCastle.Initialize RightWall.UnitObj = nil
+[2023-10-17 17:41:26:372] [Exception]TIdHttpBoxTitleThread.Execute Error1 {"code":"40006","data":[],"msg":"domain解析错误"}
+[2023-10-17 17:41:26:425] 盒子礼包:  {"code":500,"msg":"domain必传","time":"1697535686","data":[]}
+[2023-10-17 17:41:26:710] Socket Err:10061
+
+[2023-10-17 17:50:26:132]  - secret map not found !!
+[2023-10-17 17:50:26:132] [Error] UserCastle.Initialize MainDoor.UnitObj = nil
+[2023-10-17 17:50:26:132] [Error] UserCastle.Initialize LeftWall.UnitObj = nil
+[2023-10-17 17:50:26:132] [Error] UserCastle.Initialize CenterWall.UnitObj = nil
+[2023-10-17 17:50:26:132] [Error] UserCastle.Initialize RightWall.UnitObj = nil
+[2023-10-17 17:50:26:269] 盒子礼包:  {"code":500,"msg":"domain必传","time":"1697536226","data":[]}
+[2023-10-17 17:50:26:498] [Exception]TIdHttpBoxTitleThread.Execute Error1 {"code":"40006","data":[],"msg":"domain解析错误"}
+[2023-10-17 17:50:26:743] Socket Err:10061
+
+[2023-10-17 18:02:04:202]  - secret map not found !!
+[2023-10-17 18:02:04:202] [Error] UserCastle.Initialize MainDoor.UnitObj = nil
+[2023-10-17 18:02:04:202] [Error] UserCastle.Initialize LeftWall.UnitObj = nil
+[2023-10-17 18:02:04:202] [Error] UserCastle.Initialize CenterWall.UnitObj = nil
+[2023-10-17 18:02:04:202] [Error] UserCastle.Initialize RightWall.UnitObj = nil
+[2023-10-17 18:02:04:330] [Exception]TIdHttpBoxTitleThread.Execute Error1 {"code":"40006","data":[],"msg":"domain解析错误"}
+[2023-10-17 18:02:04:386] 盒子礼包:  {"code":500,"msg":"domain必传","time":"1697536924","data":[]}
+[2023-10-17 18:02:04:826] Socket Err:10061
+
+[2023-10-17 18:05:30:252]  - secret map not found !!
+[2023-10-17 18:05:30:252] [Error] UserCastle.Initialize MainDoor.UnitObj = nil
+[2023-10-17 18:05:30:252] [Error] UserCastle.Initialize LeftWall.UnitObj = nil
+[2023-10-17 18:05:30:252] [Error] UserCastle.Initialize CenterWall.UnitObj = nil
+[2023-10-17 18:05:30:252] [Error] UserCastle.Initialize RightWall.UnitObj = nil
+[2023-10-17 18:05:30:414] [Exception]TIdHttpBoxTitleThread.Execute Error1 {"code":"40006","data":[],"msg":"domain解析错误"}
+[2023-10-17 18:05:30:442] 盒子礼包:  {"code":500,"msg":"domain必传","time":"1697537130","data":[]}
+[2023-10-17 18:05:30:802] Socket Err:10061
+
+[2023-10-17 18:06:04:256]  - secret map not found !!
+[2023-10-17 18:06:04:256] [Error] UserCastle.Initialize MainDoor.UnitObj = nil
+[2023-10-17 18:06:04:256] [Error] UserCastle.Initialize LeftWall.UnitObj = nil
+[2023-10-17 18:06:04:256] [Error] UserCastle.Initialize CenterWall.UnitObj = nil
+[2023-10-17 18:06:04:256] [Error] UserCastle.Initialize RightWall.UnitObj = nil
+[2023-10-17 18:06:04:392] 盒子礼包:  {"code":500,"msg":"domain必传","time":"1697537164","data":[]}
+[2023-10-17 18:06:04:400] [Exception]TIdHttpBoxTitleThread.Execute Error1 {"code":"40006","data":[],"msg":"domain解析错误"}
+[2023-10-17 18:06:04:829] Socket Err:10061
+

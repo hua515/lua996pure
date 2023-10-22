@@ -1,0 +1,85 @@
+{
+ "ReloadTimeTcike": 10,
+ "LogSet": [
+  {
+   "logset_tablename": "tlog_login",
+   "logset_savelocal": 1,
+   "logset_savekind": 1,
+   "logset_savesql": 2,
+   "logset_newfiletick": 15,
+   "logset_newfilesize": 50,
+   "logset_dir": "d:\\nbgameinfo\\"
+  },{
+   "logset_tablename": "tlog_chat",
+   "logset_savelocal": 1,
+   "logset_savekind": 1,
+   "logset_savesql": 2,
+   "logset_newfiletick": 15,
+   "logset_newfilesize": 50,
+   "logset_dir": "d:\\nbgameinfo\\"
+  },{
+   "logset_tablename": "tlog_item",
+   "logset_savelocal": 1,
+   "logset_savekind": 1,
+   "logset_savesql": 2,
+   "logset_newfiletick": 15,
+   "logset_newfilesize": 50,
+   "logset_dir": "d:\\nbgameinfo\\"
+  },{
+   "logset_tablename": "tlog_gold",
+   "logset_savelocal": 1,
+   "logset_savekind": 1,
+   "logset_savesql": 2,
+   "logset_newfiletick": 15,
+   "logset_newfilesize": 50,
+   "logset_dir": "d:\\nbgameinfo\\"
+  },{
+   "logset_tablename": "tlog_var",
+   "logset_savelocal": 1,
+   "logset_savekind": 1,
+   "logset_savesql": 2,
+   "logset_newfiletick": 15,
+   "logset_newfilesize": 50,
+   "logset_dir": "d:\\nbgameinfo\\"
+  },{
+   "logset_tablename": "tlog_hum_die",
+   "logset_savelocal": 1,
+   "logset_savekind": 1,
+   "logset_savesql": 2,
+   "logset_newfiletick": 15,
+   "logset_newfilesize": 50,
+   "logset_dir": "d:\\nbgameinfo\\"
+  },{
+   "logset_tablename": "tlog_act",
+   "logset_savelocal": 1,
+   "logset_savekind": 1,
+   "logset_savesql": 2,
+   "logset_newfiletick": 15,
+   "logset_newfilesize": 50,
+   "logset_dir": "d:\\nbgameinfo\\"
+  },{
+   "logset_tablename": "tlog_treasure",
+   "logset_savelocal": 1,
+   "logset_savekind": 1,
+   "logset_savesql": 2,
+   "logset_newfiletick": 15,
+   "logset_newfilesize": 50,
+   "logset_dir": "d:\\nbgameinfo\\"
+  },{
+   "logset_tablename": "tlog_guild",
+   "logset_savelocal": 1,
+   "logset_savekind": 1,
+   "logset_savesql": 2,
+   "logset_newfiletick": 15,
+   "logset_newfilesize": 50,
+   "logset_dir": "d:\\nbgameinfo\\"
+  },{
+   "logset_tablename": "tlog_boss_die",
+   "logset_savelocal": 1,
+   "logset_savekind": 1,
+   "logset_savesql": 2,
+   "logset_newfiletick": 15,
+   "logset_newfilesize": 50,
+   "logset_dir": "d:\\nbgameinfo\\"
+  }]
+}

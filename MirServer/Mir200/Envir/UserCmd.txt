@@ -1,0 +1,51 @@
+jian_yb 10001
+jia_yb 10002
+
+jian_czybi 10003
+jia_czybi 10004
+
+jian_jt 10005
+jia_jt 10006
+
+jian_ybi 10007
+jia_ybi 10008
+
+openhd1 10009
+closehd1 10010
+
+openhd2 10011
+closehd2 10012
+
+zsLevel1 10013
+zsLevel2 10014
+
+killMon 10015
+
+i 10016
+
+testrecharge 10020
+yuekaAddDay 10021
+yuekaClear 10022
+
+rwwc 10100
+rwwc2 10101
+rwlq 10102
+rwsc 10103
+
+day 10104
+Allcastwar 10105
+cbg 10106
+cx 10107
+get 10108
+set 10109
+getdb 10110
+setdb 10111
+monster 10112
+getvar 10113
+skill 10114
+buff 10115
+attr 10116
+
+herolevel 10200
+herozsLevel1 10201
+herozsLevel1 10202

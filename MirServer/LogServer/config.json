@@ -1,0 +1,15 @@
+{
+ "CHAT_G_KEY": "294",
+ "CHAT_T_KEY": "2",
+ "CHAT_POST_URL": "https://www.xy.com/mgsdk/chatmonitor/sendchats",
+ "DB_USER": "sa",
+ "DB_PORT": 1433,
+ "DB_NAME": "log_test_1",
+ "DB_PSW": "test",
+ "DB_THREAD": 2,
+ "CHAT_KEY": "lkhgkdfsdmn4sdss39id9d8as",
+ "M2SERVER_IP": "127.0.0.1",
+ "DB_IP": "127.0.0.1",
+ "M2SERVER_PORT": 22018,
+ "DB_RECONNTICK": 3
+}

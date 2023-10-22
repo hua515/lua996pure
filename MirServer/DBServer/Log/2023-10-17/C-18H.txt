@@ -1,0 +1,16 @@
+2023-10-17 18:00:34 ´æ´¢ºÄÊ±£ºSaveHum:0,HumBodyItems:0,HumBagItems:0,UpdateHumStorageItems:0
+Save:[4] [0] 2023-10-17 18:00:34 ·èÅ£ÌéÌÊ Level:1  --  -- 
+2023-10-17 18:01:58 ´æ´¢ºÄÊ±£ºSaveHum:0,HumBodyItems:0,HumBagItems:0,UpdateHumStorageItems:0
+Save:[4] [0] 2023-10-17 18:01:58 ·èÅ£ÌéÌÊ Level:1  --  -- 
+Load(»º):[1] [0] 2023-10-17 18:06:31 ·èÅ£ÌéÌÊ Level:1  --  -- 
+2023-10-17 18:06:32 ´æ´¢ºÄÊ±£ºSaveHum:16,HumBodyItems:0,HumBagItems:0,UpdateHumStorageItems:0
+Save:[4] [0] 2023-10-17 18:06:32 ·èÅ£ÌéÌÊ Level:1  --  -- 
+Load(»º):[1] [0] 2023-10-17 18:16:56 ·èÅ£ÌéÌÊ Level:1  --  -- 
+2023-10-17 18:16:57 ´æ´¢ºÄÊ±£ºSaveHum:0,HumBodyItems:0,HumBagItems:0,UpdateHumStorageItems:0
+Save:[4] [0] 2023-10-17 18:16:57 ·èÅ£ÌéÌÊ Level:1  --  -- 
+2023-10-17 18:26:57 ´æ´¢ºÄÊ±£ºSaveHum:0,HumBodyItems:0,HumBagItems:0,UpdateHumStorageItems:0
+Save:[4] [0] 2023-10-17 18:26:57 ·èÅ£ÌéÌÊ Level:1  --  -- 
+2023-10-17 18:36:57 ´æ´¢ºÄÊ±£ºSaveHum:0,HumBodyItems:0,HumBagItems:0,UpdateHumStorageItems:0
+Save:[4] [0] 2023-10-17 18:36:57 ·èÅ£ÌéÌÊ Level:1  --  -- 
+2023-10-17 18:46:57 ´æ´¢ºÄÊ±£ºSaveHum:15,HumBodyItems:0,HumBagItems:0,UpdateHumStorageItems:0
+Save:[4] [0] 2023-10-17 18:46:57 ·èÅ£ÌéÌÊ Level:1  --  -- 

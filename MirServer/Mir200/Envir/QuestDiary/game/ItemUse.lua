@@ -1,0 +1,27 @@
+-- -------------------------------------------------------------------------------------
+-- -------------------------------↓↓↓ 31类物品触发 ↓↓↓----------------------------------
+-- -------------------------------------------------------------------------------------
+--itemUse使用规则:cfg_item.xls StdMode类为31,stdmodefunc函数名后跟Anicount栏参数 
+--例如:  背包扩充令:StdMode = 31,Anicount = 10000,调用函数 stdmodefunc10000
+--道具使用触发需返回本次使用是否成功(true or false)
+
+--随机石
+-- function stdmodefunc1(actor,itemmakeid,itemname,itemid)
+--     --等级限制
+--     if lib996:getbaseinfo(actor,6) < 100 then
+--         lib996:sendmsg(actor, 1, '{"Msg":"<font color=\'#ffffff\'>玩家等级不足！</font>","Type":9}')
+--         return false
+--     end
+--     if itemid == 107 then
+--         if not (#lib996:getbaseinfo(actor,3) < 10) then
+--             lib996:sendmsg(actor, 1, '{"Msg":"<font color=\'#ffffff\'>副本内禁止使用随机石</font>","Type":9}')
+--             return false
+--         end
+--         if #lib996:getbaseinfo(actor,3) < 10 then
+--             lib996:map(actor, lib996:getbaseinfo(actor,3))
+--             return true
+--         end
+--     end
+--     return true
+-- end
+

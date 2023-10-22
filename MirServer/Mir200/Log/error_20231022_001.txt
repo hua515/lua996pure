@@ -1,0 +1,36 @@
+[2023-10-22 20:59:59:379]  - secret map not found !!
+[2023-10-22 20:59:59:379] [Error] UserCastle.Initialize MainDoor.UnitObj = nil
+[2023-10-22 20:59:59:379] [Error] UserCastle.Initialize LeftWall.UnitObj = nil
+[2023-10-22 20:59:59:379] [Error] UserCastle.Initialize CenterWall.UnitObj = nil
+[2023-10-22 20:59:59:379] [Error] UserCastle.Initialize RightWall.UnitObj = nil
+[2023-10-22 20:59:59:473] [Exception]TIdHttpBoxTitleThread.Execute Error1 {"code":"40006","data":[],"msg":"domain解析错误"}
+[2023-10-22 20:59:59:568] 盒子礼包:  {"code":500,"msg":"domain必传","time":"1697979600","data":[]}
+[2023-10-22 20:59:59:875] Socket Err:10061
+
+[2023-10-22 21:14:02:081]  - secret map not found !!
+[2023-10-22 21:14:02:081] [Error] UserCastle.Initialize MainDoor.UnitObj = nil
+[2023-10-22 21:14:02:081] [Error] UserCastle.Initialize LeftWall.UnitObj = nil
+[2023-10-22 21:14:02:081] [Error] UserCastle.Initialize CenterWall.UnitObj = nil
+[2023-10-22 21:14:02:081] [Error] UserCastle.Initialize RightWall.UnitObj = nil
+[2023-10-22 21:14:02:213] [Exception]TIdHttpBoxTitleThread.Execute Error1 {"code":"40006","data":[],"msg":"domain解析错误"}
+[2023-10-22 21:14:02:264] 盒子礼包:  {"code":500,"msg":"domain必传","time":"1697980443","data":[]}
+[2023-10-22 21:14:02:632] Socket Err:10061
+
+[2023-10-22 21:15:40:076]  - secret map not found !!
+[2023-10-22 21:15:40:076] [Error] UserCastle.Initialize MainDoor.UnitObj = nil
+[2023-10-22 21:15:40:076] [Error] UserCastle.Initialize LeftWall.UnitObj = nil
+[2023-10-22 21:15:40:076] [Error] UserCastle.Initialize CenterWall.UnitObj = nil
+[2023-10-22 21:15:40:076] [Error] UserCastle.Initialize RightWall.UnitObj = nil
+[2023-10-22 21:15:40:182] [Exception]TIdHttpBoxTitleThread.Execute Error1 {"code":"40006","data":[],"msg":"domain解析错误"}
+[2023-10-22 21:15:40:250] 盒子礼包:  {"code":500,"msg":"domain必传","time":"1697980541","data":[]}
+[2023-10-22 21:15:40:658] Socket Err:10061
+
+[2023-10-22 21:19:04:627]  - secret map not found !!
+[2023-10-22 21:19:04:627] [Error] UserCastle.Initialize MainDoor.UnitObj = nil
+[2023-10-22 21:19:04:627] [Error] UserCastle.Initialize LeftWall.UnitObj = nil
+[2023-10-22 21:19:04:627] [Error] UserCastle.Initialize CenterWall.UnitObj = nil
+[2023-10-22 21:19:04:627] [Error] UserCastle.Initialize RightWall.UnitObj = nil
+[2023-10-22 21:19:04:719] [Exception]TIdHttpBoxTitleThread.Execute Error1 {"code":"40006","data":[],"msg":"domain解析错误"}
+[2023-10-22 21:19:04:756] 盒子礼包:  {"code":500,"msg":"domain必传","time":"1697980745","data":[]}
+[2023-10-22 21:19:05:181] Socket Err:10061
+

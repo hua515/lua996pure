@@ -1,0 +1,1 @@
+{"isShowAttributeTips":false, "buttonSmall":"0", "isHideAuctionGuild":true, "isSingleJob":true, "isRandomJob":false, "isRandomSex":true }

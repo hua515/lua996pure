@@ -1,0 +1,43 @@
+[Setup]
+CastleName=É³°Í¿Ë
+CHANGEDATE=2022/3/15 15:35:01
+WARDATE=2021/12/4 22:30:13
+INCOMETODAY=2021/12/4 22:30:13
+OwnGuild=
+TotalGold=94500000
+TodayIncome=100000000
+
+
+[Defense]
+CastleMapList=
+CastleMap=sc
+CastleHomeMap=sc
+CastleHomeX=198
+CastleHomeY=265
+CastleWarRangeX=150
+CastleWarRangeY=150
+CastlePlaceMap=n0150
+CastleSecretMap=
+CastlePalaceDoorX=
+CastlePalaceDoorY=
+
+MainDoorName=MainDoor
+MainDoorX=266
+MainDoorY=345
+MainDoorOpen=1
+MainDoorHP=10000
+
+LeftWallName=LeftWall
+LeftWallX=190
+LeftWallY=278
+LeftWallHP=5000
+
+CenterWallName=CenterWall
+CenterWallX=195
+CenterWallY=278
+CenterWallHP=5000
+
+RightWallName=RightWall
+RightWallX=204
+RightWallY=269
+RightWallHP=5000

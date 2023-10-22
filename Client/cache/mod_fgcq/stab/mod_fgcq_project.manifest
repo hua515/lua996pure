@@ -1,0 +1,1529 @@
+{
+    "version": "4.1.5025",
+    "assets": {
+        "anim_effect.zip": {
+            "md5": "d49d1b8d6292f1cde72b346e6796c3d1",
+            "compressed": true,
+            "size": 698
+        },
+        "anim_hair.zip": {
+            "md5": "5728715d4ea99b7324bbebe4400d0e9a",
+            "compressed": true,
+            "size": 20243
+        },
+        "anim_monster.zip": {
+            "md5": "e87b3ec70df045bf3fda9bab6d7f7a5d",
+            "compressed": true,
+            "size": 5357
+        },
+        "anim_player.zip": {
+            "md5": "b95bde64e9c3c41500a31a0599cc638c",
+            "compressed": true,
+            "size": 723936
+        },
+        "anim_shield.zip": {
+            "md5": "c39b0183c9c0f9d246880535f738d288",
+            "compressed": true,
+            "size": 10275
+        },
+        "anim_weapon.zip": {
+            "md5": "9d1401a29a74d7bf7c8ef8cb9cf70c63",
+            "compressed": true,
+            "size": 18535
+        },
+        "anim_wings.zip": {
+            "md5": "46e53c49d46c75452045b522f457745c",
+            "compressed": true,
+            "size": 17390
+        },
+        "assets_sub.zip": {
+            "md5": "f41f2ab970187e474121e8f53cb6aeb7",
+            "compressed": true,
+            "size": 2920715,
+            "downloadState": 1
+        },
+        "data_config.zip": {
+            "md5": "9718a25e280f91a219d64940367d490d",
+            "compressed": true,
+            "size": 3037
+        },
+        "Default.zip": {
+            "md5": "037bf80174f97b4291d2b03c48996c06",
+            "compressed": true,
+            "size": 20949
+        },
+        "GUIExport_auction.zip": {
+            "md5": "85d3b7f84165e630e0b09e53a3d61b30",
+            "compressed": true,
+            "size": 2572
+        },
+        "GUIExport_dialog.zip": {
+            "md5": "ccf747c4a11025385bed6a2ca34c71d7",
+            "compressed": true,
+            "size": 1387
+        },
+        "GUIExport_extra.zip": {
+            "md5": "2d654b3520e6ffb78866e78b27457a8a",
+            "compressed": true,
+            "size": 1105
+        },
+        "GUIExport_guild.zip": {
+            "md5": "ebe1cf39964c76b75bc9008b180539b2",
+            "compressed": true,
+            "size": 62097
+        },
+        "GUIExport_item.zip": {
+            "md5": "23ea99f1b0f18d53dce8eb53e7085b9e",
+            "compressed": true,
+            "size": 7996
+        },
+        "GUIExport_look_player.zip": {
+            "md5": "cec9e2468ffad9e8a47ed29a3afc97ce",
+            "compressed": true,
+            "size": 86706
+        },
+        "GUIExport_main_assist.zip": {
+            "md5": "6eb06020e49c541b06e771c79650bee4",
+            "compressed": true,
+            "size": 19136
+        },
+        "GUIExport_notice.zip": {
+            "md5": "834573487573502bf7190a6d3cf4e4c5",
+            "compressed": true,
+            "size": 3856
+        },
+        "GUIExport_player.zip": {
+            "md5": "657c3f54f449afb9fd3d7e13975ef9ce",
+            "compressed": true,
+            "size": 88206
+        },
+        "GUIExport_rank.zip": {
+            "md5": "8b28ad21f965d5c43c23e8e703397341",
+            "compressed": true,
+            "size": 11746
+        },
+        "GUIExport_set.zip": {
+            "md5": "6a4d8cb297b8a74f933c7a7e23fb8eb2",
+            "compressed": true,
+            "size": 4961
+        },
+        "GUIExport_skill_setting.zip": {
+            "md5": "100da6b1336643bb4e436f2080dd817d",
+            "compressed": true,
+            "size": 12646
+        },
+        "GUIExport_trade_player.zip": {
+            "md5": "312d7d2f6776dc7ded18b01ded20e12d",
+            "compressed": true,
+            "size": 86718
+        },
+        "GUILayout.zip": {
+            "md5": "7a7cc5b6d0c4d65021a00e72ddc7e773",
+            "compressed": true,
+            "size": 1144730,
+            "downloadState": 2
+        },
+        "res_buff_icon.zip": {
+            "md5": "6a724aeab412adae26da678f5c896021",
+            "compressed": true,
+            "size": 48115
+        },
+        "res_item_ground_item_ground_0.zip": {
+            "md5": "ed61ca7d45b6fb32c3060b1544ce6387",
+            "compressed": true,
+            "size": 3892
+        },
+        "res_item_item_0.zip": {
+            "md5": "377402d806ed76f07b69d13773c6ddfa",
+            "compressed": true,
+            "size": 5264587
+        },
+        "res_player_show_player_show_0.zip": {
+            "md5": "b325ff32c11aeb38b245cb4a335c3d1a",
+            "compressed": true,
+            "size": 4957842
+        },
+        "res_player_show_player_show_1.zip": {
+            "md5": "38ebbb4761dbfd07767d2330880d432a",
+            "compressed": true,
+            "size": 201
+        },
+        "res_player_show_player_show_10.zip": {
+            "md5": "3926ecf6fcf9c29bb136749bfe49d0dd",
+            "compressed": true,
+            "size": 203
+        },
+        "res_player_show_player_show_2.zip": {
+            "md5": "1d529564eda02b9b9586cba8823dbb21",
+            "compressed": true,
+            "size": 201
+        },
+        "res_player_show_player_show_3.zip": {
+            "md5": "97b80642915ca93f1c944757d1a1ab03",
+            "compressed": true,
+            "size": 201
+        },
+        "res_player_show_player_show_4.zip": {
+            "md5": "679d569e1b16a518f3dd7242290eab39",
+            "compressed": true,
+            "size": 201
+        },
+        "res_player_show_player_show_5.zip": {
+            "md5": "ca171d698abbe8a6e63dbf6447d05038",
+            "compressed": true,
+            "size": 201
+        },
+        "res_player_show_player_show_6.zip": {
+            "md5": "3a837b245d24cfe502294752ce6fd31d",
+            "compressed": true,
+            "size": 201
+        },
+        "res_player_show_player_show_7.zip": {
+            "md5": "dddc4f1b62e29f0888fd9985ada5bd0d",
+            "compressed": true,
+            "size": 201
+        },
+        "res_player_show_player_show_8.zip": {
+            "md5": "4d0960f7bccfa6b6a923fb47c40dac1c",
+            "compressed": true,
+            "size": 201
+        },
+        "res_player_show_player_show_9.zip": {
+            "md5": "14435709b2baac4e6f6eaa32d993b3d4",
+            "compressed": true,
+            "size": 201
+        },
+        "res_private_announce.zip": {
+            "md5": "6bd2bc6e02ce53ebae36afd867ac5503",
+            "compressed": true,
+            "size": 163318
+        },
+        "res_private_auction.zip": {
+            "md5": "7627eb2f0f0551d0a1eca6f3a935fe16",
+            "compressed": true,
+            "size": 6316
+        },
+        "res_private_bag_ui.zip": {
+            "md5": "3c79fde4aee7cc9297cb204b63149e8e",
+            "compressed": true,
+            "size": 178576
+        },
+        "res_private_bag_ui_hero.zip": {
+            "md5": "8d56391dd6adf7bacf01cf38f15876ab",
+            "compressed": true,
+            "size": 713066
+        },
+        "res_private_best_rings.zip": {
+            "md5": "44036764d6f7aac14f583509c6e50c56",
+            "compressed": true,
+            "size": 105800
+        },
+        "res_private_be_strong.zip": {
+            "md5": "22f3684b1d99841417a9408239fc6928",
+            "compressed": true,
+            "size": 3246
+        },
+        "res_private_box_996_ui.zip": {
+            "md5": "7b3d2620e85d7564fd85ffc8fe8586ab",
+            "compressed": true,
+            "size": 319330
+        },
+        "res_private_chat.zip": {
+            "md5": "a80031ff146e6416b8517452bfe970c8",
+            "compressed": true,
+            "size": 149089
+        },
+        "res_private_compound_items_ui.zip": {
+            "md5": "47b008db47f387d617f47e8cd490d2b4",
+            "compressed": true,
+            "size": 60090
+        },
+        "res_private_config_setting.zip": {
+            "md5": "1ac5ace45ffc3ece7ede8d3c731d4cef",
+            "compressed": true,
+            "size": 4990
+        },
+        "res_private_create_hero.zip": {
+            "md5": "658bc576b4b38375766f320335466cc2",
+            "compressed": true,
+            "size": 153441
+        },
+        "res_private_cursor.zip": {
+            "md5": "790e5adc780bec933a079223249c1166",
+            "compressed": true,
+            "size": 11160
+        },
+        "res_private_damage_num.zip": {
+            "md5": "6ca1c52c77cfc84403d93d92ad9c3033",
+            "compressed": true,
+            "size": 14792
+        },
+        "res_private_dark.zip": {
+            "md5": "564a8444f4a3b10378d0fcf664177279",
+            "compressed": true,
+            "size": 1508503
+        },
+        "res_private_dress_ui.zip": {
+            "md5": "f81650bcdd11dc9f2bdf6a1d965be14b",
+            "compressed": true,
+            "size": 82361
+        },
+        "res_private_friend.zip": {
+            "md5": "af216e4006d1e336374a4a674fb77ea9",
+            "compressed": true,
+            "size": 36816
+        },
+        "res_private_guide.zip": {
+            "md5": "824a950be5afdf89fa5e66d937f2e80a",
+            "compressed": true,
+            "size": 7502
+        },
+        "res_private_guild_ui.zip": {
+            "md5": "f9bdf0a57cd5c958b3c45c14666dd2ed",
+            "compressed": true,
+            "size": 1584890
+        },
+        "res_private_gui_edit_scroll.zip": {
+            "md5": "d710338d0135f7c59799aa73c4d503c9",
+            "compressed": true,
+            "size": 4887
+        },
+        "res_private_hud.zip": {
+            "md5": "1f28a9a16b3994b52510e0d9e142426d",
+            "compressed": true,
+            "size": 15395
+        },
+        "res_private_hurt_tips.zip": {
+            "md5": "137bbdc9c808199eee77e422b52e3789",
+            "compressed": true,
+            "size": 557
+        },
+        "res_private_hzlb.zip": {
+            "md5": "714c41577314b31d92a7e3c8ff987065",
+            "compressed": true,
+            "size": 260997
+        },
+        "res_private_item_tips_sword_soul.zip": {
+            "md5": "1619fed1ae9b62a58c5e4cd66a3bf50d",
+            "compressed": true,
+            "size": 5011
+        },
+        "res_private_loading.zip": {
+            "md5": "ac18b684b881e895e592f924007670b4",
+            "compressed": true,
+            "size": 3462
+        },
+        "res_private_login_account.zip": {
+            "md5": "c2ede2a2371d59530571e5a19d767619",
+            "compressed": true,
+            "size": 688842
+        },
+        "res_private_login_open_door.zip": {
+            "md5": "0a48bdcfb6dc9399d31743256187838b",
+            "compressed": true,
+            "size": 2691637
+        },
+        "res_private_mail.zip": {
+            "md5": "977802d5866285d59c461b6342726f58",
+            "compressed": true,
+            "size": 43520
+        },
+        "res_private_main-win32_chat.zip": {
+            "md5": "d37f64a2137203607ded5192acc331a8",
+            "compressed": true,
+            "size": 42550
+        },
+        "res_private_main-win32_skill.zip": {
+            "md5": "aa16be649d504fdb8a9ad86e2ca9d35d",
+            "compressed": true,
+            "size": 11991
+        },
+        "res_private_main-win32_word.zip": {
+            "md5": "85b14fe2ff57fa8fb74dbafc2d55c7a0",
+            "compressed": true,
+            "size": 12009
+        },
+        "res_private_main_assist.zip": {
+            "md5": "f1068179e4da427bb90559e937f127d7",
+            "compressed": true,
+            "size": 77473
+        },
+        "res_private_main_bottom.zip": {
+            "md5": "63cb97adef0f565e030555ff8afe3f6c",
+            "compressed": true,
+            "size": 138224
+        },
+        "res_private_main_bubble_tips.zip": {
+            "md5": "c15298c03d392e20d308d06fde4018af",
+            "compressed": true,
+            "size": 52993
+        },
+        "res_private_main_Button.zip": {
+            "md5": "fd194b97b39ddfa17da08a6a7fd0ca27",
+            "compressed": true,
+            "size": 13586
+        },
+        "res_private_main_Button_1.zip": {
+            "md5": "ae728b9d51179ef58808ce8e546d45de",
+            "compressed": true,
+            "size": 749
+        },
+        "res_private_main_Button_3.zip": {
+            "md5": "fd1e01f4f06a3a66e084e9177f8c8b79",
+            "compressed": true,
+            "size": 86519
+        },
+        "res_private_main_collect.zip": {
+            "md5": "7281b609de671ce04039633dde1a127e",
+            "compressed": true,
+            "size": 17855
+        },
+        "res_private_main_miniMap.zip": {
+            "md5": "b419c951f92a4167a235d3386248785b",
+            "compressed": true,
+            "size": 25193
+        },
+        "res_private_main_monster_ui_hp.zip": {
+            "md5": "4b86f1e06b699e2475bd0581fb8afa60",
+            "compressed": true,
+            "size": 41675
+        },
+        "res_private_main_monster_ui_monster.zip": {
+            "md5": "786ce8c8ea79617f95d947cb269ec1ad",
+            "compressed": true,
+            "size": 26009
+        },
+        "res_private_main_Other.zip": {
+            "md5": "5af45bde1f7a47bd7ad108ca8fbc70ae",
+            "compressed": true,
+            "size": 7448
+        },
+        "res_private_main_Pattern.zip": {
+            "md5": "ca007203de73fdc46577a1abdc0d684a",
+            "compressed": true,
+            "size": 539724
+        },
+        "res_private_main_Rocker.zip": {
+            "md5": "8afc8c84fae093119f1f012ad3efc738",
+            "compressed": true,
+            "size": 28546
+        },
+        "res_private_main_Skill_hero.zip": {
+            "md5": "19d22853eb72db7f67ef6136be58bccd",
+            "compressed": true,
+            "size": 29278
+        },
+        "res_private_main_Skill_hero2.zip": {
+            "md5": "830b433e7a7b1eaa50c3d54cbb62679b",
+            "compressed": true,
+            "size": 66272
+        },
+        "res_private_main_summons.zip": {
+            "md5": "9e192cca47b2d563a1ecb0fd918a6ede",
+            "compressed": true,
+            "size": 8435
+        },
+        "res_private_main_Target.zip": {
+            "md5": "0868abdd1c0d0cd1625bc4c403258de1",
+            "compressed": true,
+            "size": 16669
+        },
+        "res_private_mhp_ui.zip": {
+            "md5": "20f98a2921b5958b57a46e8ff9bae0b9",
+            "compressed": true,
+            "size": 500431
+        },
+        "res_private_minimap.zip": {
+            "md5": "9bb445c828211a4bbd28c833fe2aa81e",
+            "compressed": true,
+            "size": 391322
+        },
+        "res_private_npc.zip": {
+            "md5": "4f9f2da7b9108ca624c5908949ae277a",
+            "compressed": true,
+            "size": 17151
+        },
+        "res_private_npc_res.zip": {
+            "md5": "ef38f2dacdcce73b6edace501ac86768",
+            "compressed": true,
+            "size": 1289
+        },
+        "res_private_npc_storage.zip": {
+            "md5": "dc0da2ebc0a46ada609e62758173aa28",
+            "compressed": true,
+            "size": 175792
+        },
+        "res_private_player_hero.zip": {
+            "md5": "ba1d5c9bf33334fded74742c1e3280ef",
+            "compressed": true,
+            "size": 298384
+        },
+        "res_private_player_main_layer_ui_player_main_layer_ui_mobile.zip": {
+            "md5": "46c28b1c6e241179d0d1155e6c68d9ea",
+            "compressed": true,
+            "size": 696329
+        },
+        "res_private_player_model.zip": {
+            "md5": "a06e0b8b8e7dd3fec30ffa6b191f37a9",
+            "compressed": true,
+            "size": 11588
+        },
+        "res_private_player_skill.zip": {
+            "md5": "6d82b2fc94af0ec3527425c3c9f47bf3",
+            "compressed": true,
+            "size": 113308
+        },
+        "res_private_play_dice.zip": {
+            "md5": "deb93ebef34578aef4427b756c842dc4",
+            "compressed": true,
+            "size": 4986
+        },
+        "res_private_powerful_secret.zip": {
+            "md5": "038d33964a4a06cb7c41f5ffd196f883",
+            "compressed": true,
+            "size": 22565
+        },
+        "res_private_quick_select.zip": {
+            "md5": "9d2476fd6703fcdc5ff1670dfe7fc322",
+            "compressed": true,
+            "size": 30755
+        },
+        "res_private_rank_ui_rank_ui_mobile.zip": {
+            "md5": "42434a2b905c97d15ac9b049e30febad",
+            "compressed": true,
+            "size": 279756
+        },
+        "res_private_rank_ui_rank_ui_win32.zip": {
+            "md5": "fdf4b80a26942845792fb30eb784d980",
+            "compressed": true,
+            "size": 217959
+        },
+        "res_private_rein_attr_ui_attr_ui_mobile.zip": {
+            "md5": "9929db516adf7d15518d3780142b47d8",
+            "compressed": true,
+            "size": 5987
+        },
+        "res_private_rein_attr_ui_attr_ui_win32.zip": {
+            "md5": "ee36cb90ba5d098b8320325412534a0c",
+            "compressed": true,
+            "size": 7380
+        },
+        "res_private_script_show.zip": {
+            "md5": "c6e7a1f962eca8a881bc9cc9cc2b6d0f",
+            "compressed": true,
+            "size": 1177
+        },
+        "res_private_setting.zip": {
+            "md5": "68d0e5e70636f871c67f3775662a4564",
+            "compressed": true,
+            "size": 372880
+        },
+        "res_private_setting_basic.zip": {
+            "md5": "f67add8a1159dc256c1112e3fbe95576",
+            "compressed": true,
+            "size": 711
+        },
+        "res_private_skill-win32.zip": {
+            "md5": "f23970d91cb228d1ea813e27393698de",
+            "compressed": true,
+            "size": 107157
+        },
+        "res_private_skill.zip": {
+            "md5": "c899351290128985c4b4f78139a16073",
+            "compressed": true,
+            "size": 58020
+        },
+        "res_private_splash.zip": {
+            "md5": "d1c2706433cee6610d75d9b3ba131f6a",
+            "compressed": true,
+            "size": 9995
+        },
+        "res_private_store_ui.zip": {
+            "md5": "5c2edadc70171c98fcbf5626ea217a86",
+            "compressed": true,
+            "size": 31828
+        },
+        "res_private_sui.zip": {
+            "md5": "a06332a13acb9606dabe5a52716dadf9",
+            "compressed": true,
+            "size": 6753
+        },
+        "res_private_team.zip": {
+            "md5": "7d4bdaaafa0843dff6ef64a4d231cd84",
+            "compressed": true,
+            "size": 67301
+        },
+        "res_private_title_icon.zip": {
+            "md5": "810e68ea2e547d8941f6789fe2e568f4",
+            "compressed": true,
+            "size": 23165
+        },
+        "res_private_title_layer_ui.zip": {
+            "md5": "5367e2951c9bb2e046279b177077a0aa",
+            "compressed": true,
+            "size": 17033
+        },
+        "res_private_trade_trade_ui_mobile.zip": {
+            "md5": "7d6de5b7c59a2b21cb7dcb58ab4c1e99",
+            "compressed": true,
+            "size": 24175
+        },
+        "res_private_trade_ui.zip": {
+            "md5": "9cfc5acbe1b82d4c6e744ca7a1b13fda",
+            "compressed": true,
+            "size": 47922
+        },
+        "res_private_TradingBankLayer.zip": {
+            "md5": "6d65fff91a81e76def70f00f25d3c038",
+            "compressed": true,
+            "size": 2378481
+        },
+        "res_private_treasure_box.zip": {
+            "md5": "201d4c582633c244ca4cab185dde557e",
+            "compressed": true,
+            "size": 68256
+        },
+        "res_public.zip": {
+            "md5": "0fe53ecff4d36c47bfeb72542a388baf",
+            "compressed": true,
+            "size": 4288997
+        },
+        "res_skill_icon.zip": {
+            "md5": "eb45f0a6462bc666c45b2617294fa913",
+            "compressed": true,
+            "size": 822921
+        },
+        "res_skill_icon_c.zip": {
+            "md5": "19c49173ffe52d63e51f78660fdece84",
+            "compressed": true,
+            "size": 1280230
+        },
+        "scripts_actor.zip": {
+            "md5": "1eab668f11278e45c503f25bcd76a778",
+            "compressed": true,
+            "size": 126377
+        },
+        "scripts_animation.zip": {
+            "md5": "46e9d98d661d829f6f06a80c8de20830",
+            "compressed": true,
+            "size": 48357
+        },
+        "scripts_bt.zip": {
+            "md5": "9d1996df64feb20a10a4bfa2fe0ccb6b",
+            "compressed": true,
+            "size": 13988
+        },
+        "scripts_buff.zip": {
+            "md5": "65fe20e2af78b971f35b78d791ada5a9",
+            "compressed": true,
+            "size": 37742
+        },
+        "scripts_cocos_cocos2d.zip": {
+            "md5": "e1461bd4a30e532fd1ffcefa6d85876b",
+            "compressed": true,
+            "size": 175384
+        },
+        "scripts_cocos_cocosbuilder.zip": {
+            "md5": "937be030bca52106536d0f385bc7fb5a",
+            "compressed": true,
+            "size": 3284
+        },
+        "scripts_cocos_cocosdenshion.zip": {
+            "md5": "a220a9ab41a8c1aa46e5857bfd27641c",
+            "compressed": true,
+            "size": 4209
+        },
+        "scripts_cocos_cocostudio.zip": {
+            "md5": "7f65efd3b99cc83f1a7b6e49a6bab53d",
+            "compressed": true,
+            "size": 13190
+        },
+        "scripts_cocos_controller.zip": {
+            "md5": "2911eb5312d019be4f26f6a5c4b53b9a",
+            "compressed": true,
+            "size": 739
+        },
+        "scripts_cocos_extends.zip": {
+            "md5": "c74f41c62b5d61f6564aeb44a3dab05a",
+            "compressed": true,
+            "size": 14429
+        },
+        "scripts_cocos_extension.zip": {
+            "md5": "59982c4ae0f3f8ef792b3a55241c04bc",
+            "compressed": true,
+            "size": 7734
+        },
+        "scripts_cocos_framework_components.zip": {
+            "md5": "78e6b9837c132f8594ac1056673d5d6b",
+            "compressed": true,
+            "size": 3271
+        },
+        "scripts_cocos_network.zip": {
+            "md5": "403b8274ad288901dce48b3bf2a83ce3",
+            "compressed": true,
+            "size": 2850
+        },
+        "scripts_cocos_ui.zip": {
+            "md5": "3d1f9d7d8e403ddb7dec7ede00bc4a8f",
+            "compressed": true,
+            "size": 10512
+        },
+        "scripts_config.zip": {
+            "md5": "2b6f565ee786962846c2816970a7168a",
+            "compressed": true,
+            "size": 163840,
+            "downloadState": 2
+        },
+        "scripts_framework_core.zip": {
+            "md5": "ed5ea98b34ee07dc0b773d2ba28544dc",
+            "compressed": true,
+            "size": 4481
+        },
+        "scripts_framework_patterns_command.zip": {
+            "md5": "98f7d5f580c1ae951cbe98f6ec752c99",
+            "compressed": true,
+            "size": 1214
+        },
+        "scripts_framework_patterns_facade.zip": {
+            "md5": "55a738391813587ddb9a964794741ca7",
+            "compressed": true,
+            "size": 2663
+        },
+        "scripts_framework_patterns_mediator.zip": {
+            "md5": "15b9bb53c5e941d4717dc0251ec760ca",
+            "compressed": true,
+            "size": 771
+        },
+        "scripts_framework_patterns_observer.zip": {
+            "md5": "70fd453f3a0d18fd63a95f59acf6e334",
+            "compressed": true,
+            "size": 2085
+        },
+        "scripts_framework_patterns_proxy.zip": {
+            "md5": "c8d7aefce0e7476a15fa55940b679be1",
+            "compressed": true,
+            "size": 627
+        },
+        "scripts_gamestates.zip": {
+            "md5": "a8db8eea5716e7e144cb1193d724ef7d",
+            "compressed": true,
+            "size": 29371
+        },
+        "scripts_game_command_actor.zip": {
+            "md5": "9ee1a02f116bcb3e027a992e820cc35f",
+            "compressed": true,
+            "size": 5919
+        },
+        "scripts_game_command_actorstates.zip": {
+            "md5": "ca135f66ab1b9232d83a8236be4241d1",
+            "compressed": true,
+            "size": 1751
+        },
+        "scripts_game_command_auto.zip": {
+            "md5": "6161fde4ba979090baf3a7b3d769fdf7",
+            "compressed": true,
+            "size": 14966
+        },
+        "scripts_game_command_gamestates.zip": {
+            "md5": "6204fa0e630dacab3ee18a79b4c6d780",
+            "compressed": true,
+            "size": 20308
+        },
+        "scripts_game_command_input.zip": {
+            "md5": "47f176907e51f264d6a5f29d53d155e3",
+            "compressed": true,
+            "size": 10506
+        },
+        "scripts_game_command_item.zip": {
+            "md5": "3f3e59eb17d0742496d5343fd0efdfa8",
+            "compressed": true,
+            "size": 18959
+        },
+        "scripts_game_command_other.zip": {
+            "md5": "e48a2c21be10be9a7e6444310f466001",
+            "compressed": true,
+            "size": 41174,
+            "downloadState": 2
+        },
+        "scripts_game_command_register.zip": {
+            "md5": "30e60f53add66a2ea130e5c87e3480d6",
+            "compressed": true,
+            "size": 19901
+        },
+        "scripts_game_command_scene.zip": {
+            "md5": "130c6e67a64eac0c52592f4791debdfe",
+            "compressed": true,
+            "size": 2277
+        },
+        "scripts_game_command_shader.zip": {
+            "md5": "4572e489e9fbb73140db921718b894a4",
+            "compressed": true,
+            "size": 7878
+        },
+        "scripts_game_command_skill.zip": {
+            "md5": "1e353abe7854591e8cb7ef084555322f",
+            "compressed": true,
+            "size": 16049
+        },
+        "scripts_game_config.zip": {
+            "md5": "6ff5a585e2bbd3120f459f7079bf3754",
+            "compressed": true,
+            "size": 1544500
+        },
+        "scripts_game_mediator_auction_layer.zip": {
+            "md5": "e820405fd343b303ae8ddd7597ca4a9f",
+            "compressed": true,
+            "size": 15183
+        },
+        "scripts_game_mediator_audio.zip": {
+            "md5": "aff130f00a092e8b0517dadbb1c10933",
+            "compressed": true,
+            "size": 8265
+        },
+        "scripts_game_mediator_auto_trade_layer.zip": {
+            "md5": "5a6e54534dbac52cc19a565745b43182",
+            "compressed": true,
+            "size": 4815
+        },
+        "scripts_game_mediator_auto_use_tips.zip": {
+            "md5": "7da027d10e41358f41cc1c429a7a5558",
+            "compressed": true,
+            "size": 2577
+        },
+        "scripts_game_mediator_bag_layer.zip": {
+            "md5": "5e97618a55762b46d53ddb026839228f",
+            "compressed": true,
+            "size": 1959
+        },
+        "scripts_game_mediator_bag_layer_hero.zip": {
+            "md5": "c41c5b9d3e814977282b836326d1b4b7",
+            "compressed": true,
+            "size": 1921
+        },
+        "scripts_game_mediator_bag_layer_merge.zip": {
+            "md5": "40a279bf618e1fc240f75a205a6ce3f6",
+            "compressed": true,
+            "size": 2829
+        },
+        "scripts_game_mediator_be_strong_layer.zip": {
+            "md5": "8856e3da14af5ccfbcc04960b2bb003a",
+            "compressed": true,
+            "size": 3376
+        },
+        "scripts_game_mediator_box996_layer.zip": {
+            "md5": "0ca672bebf5ea8817539e1e70ceef81d",
+            "compressed": true,
+            "size": 10595
+        },
+        "scripts_game_mediator_chat_layer.zip": {
+            "md5": "30ee48899c2648fb32998f9d9503706e",
+            "compressed": true,
+            "size": 11733
+        },
+        "scripts_game_mediator_common_tips_layer.zip": {
+            "md5": "9daa8c464149ca6daf803fb76bd822cd",
+            "compressed": true,
+            "size": 4607
+        },
+        "scripts_game_mediator_couping.zip": {
+            "md5": "39ee832f01c5d5eaee75839d277ce71a",
+            "compressed": true,
+            "size": 23438
+        },
+        "scripts_game_mediator_dark_layer.zip": {
+            "md5": "562bd0a2af19ba77cdfdce49ee611172",
+            "compressed": true,
+            "size": 1963
+        },
+        "scripts_game_mediator_debug_map.zip": {
+            "md5": "66fe992f750f3ca6b6ad21d55db4d407",
+            "compressed": true,
+            "size": 3395
+        },
+        "scripts_game_mediator_disconnect.zip": {
+            "md5": "8eb2d5bed026f91d11ff4fbfa820dd51",
+            "compressed": true,
+            "size": 5845
+        },
+        "scripts_game_mediator_extra_layer.zip": {
+            "md5": "ae608a180d7580bd3305a8af730a904e",
+            "compressed": true,
+            "size": 1671
+        },
+        "scripts_game_mediator_firework_hall.zip": {
+            "md5": "e60f9ebaac9459e31f7cba9ead8eb7aa",
+            "compressed": true,
+            "size": 2211
+        },
+        "scripts_game_mediator_friend_layer.zip": {
+            "md5": "0b9fa3196871a8a8393256851f65aaef",
+            "compressed": true,
+            "size": 3695
+        },
+        "scripts_game_mediator_gamestates.zip": {
+            "md5": "f34b1d1982ae91938a0c233159ab5a50",
+            "compressed": true,
+            "size": 2631
+        },
+        "scripts_game_mediator_game_world_confirm_layer.zip": {
+            "md5": "c883175c7a66cb6ce5ab03ebd22b02b4",
+            "compressed": true,
+            "size": 2485
+        },
+        "scripts_game_mediator_gold_box_layer.zip": {
+            "md5": "2cb2887cb16cde0d6d2e70e48cc00b68",
+            "compressed": true,
+            "size": 2692
+        },
+        "scripts_game_mediator_guide_layer.zip": {
+            "md5": "8afc150b08fb8e24e189d6de2e444946",
+            "compressed": true,
+            "size": 1635
+        },
+        "scripts_game_mediator_guild_layer.zip": {
+            "md5": "24fd9c6a9a80d8ad849d9dba5490ae68",
+            "compressed": true,
+            "size": 10795
+        },
+        "scripts_game_mediator_hurt_tips_layer.zip": {
+            "md5": "df99bab5376911916307422466d93ab1",
+            "compressed": true,
+            "size": 3556
+        },
+        "scripts_game_mediator_item_tips_layer.zip": {
+            "md5": "d7f51034a8f8c3729bc7a5af4bbd8f2e",
+            "compressed": true,
+            "size": 4165
+        },
+        "scripts_game_mediator_loading_layer.zip": {
+            "md5": "c42c657d7b1edbe771f1705cb30cc033",
+            "compressed": true,
+            "size": 7798
+        },
+        "scripts_game_mediator_login_layer.zip": {
+            "md5": "55bbb7bb2d51bf6bb3cfa21046e1e81c",
+            "compressed": true,
+            "size": 12858
+        },
+        "scripts_game_mediator_look_player_layer.zip": {
+            "md5": "f83ac732aeeb6a3871e3e95fd15606f4",
+            "compressed": true,
+            "size": 6401
+        },
+        "scripts_game_mediator_look_player_layer_hero.zip": {
+            "md5": "579e91087b06ff04840cb8b654d4c62b",
+            "compressed": true,
+            "size": 6739
+        },
+        "scripts_game_mediator_look_player_layer_merge.zip": {
+            "md5": "7602af7ed9f731994881d2f49ca82899",
+            "compressed": true,
+            "size": 3796
+        },
+        "scripts_game_mediator_look_tradingbank_player_layer.zip": {
+            "md5": "3bf827a85610e43268dc7d2583171b3c",
+            "compressed": true,
+            "size": 14473
+        },
+        "scripts_game_mediator_look_tradingbank_player_layer_hero.zip": {
+            "md5": "a1cda33bcdce37968c89219325094c52",
+            "compressed": true,
+            "size": 13510
+        },
+        "scripts_game_mediator_mail_layer.zip": {
+            "md5": "29fe555abd80bd3a12d05372e6236a0b",
+            "compressed": true,
+            "size": 3048
+        },
+        "scripts_game_mediator_mainui-win32.zip": {
+            "md5": "f42b93f7e0ae8cbbe5a7b5e913ab5ed4",
+            "compressed": true,
+            "size": 9675
+        },
+        "scripts_game_mediator_mainui.zip": {
+            "md5": "a6f318a26f7e2bd2cc5f33bf094d3420",
+            "compressed": true,
+            "size": 30852
+        },
+        "scripts_game_mediator_message_layer.zip": {
+            "md5": "e7b3f2cae1bba797355b2dfb277ef17e",
+            "compressed": true,
+            "size": 6575
+        },
+        "scripts_game_mediator_mini_map.zip": {
+            "md5": "4cee23d3eb46dea9fbbe74cb05ade81e",
+            "compressed": true,
+            "size": 3770
+        },
+        "scripts_game_mediator_moved_layer.zip": {
+            "md5": "0480cde3f8eb90730fd52b76a27a7aeb",
+            "compressed": true,
+            "size": 6698
+        },
+        "scripts_game_mediator_near_player_layer.zip": {
+            "md5": "469344abcd7bb4c9fe71c98d2ada1925",
+            "compressed": true,
+            "size": 1147
+        },
+        "scripts_game_mediator_npc_layer.zip": {
+            "md5": "0c31524840a536070d79f7965eaa69f4",
+            "compressed": true,
+            "size": 12589
+        },
+        "scripts_game_mediator_player_layer.zip": {
+            "md5": "c493547b8455c15398d3265ed10fc72c",
+            "compressed": true,
+            "size": 12355
+        },
+        "scripts_game_mediator_player_layer_hero.zip": {
+            "md5": "ca3b93a90ff0d0fba5d1eff3660bf6a3",
+            "compressed": true,
+            "size": 16912
+        },
+        "scripts_game_mediator_player_layer_merge.zip": {
+            "md5": "a400657cbf5ec988438b34361c3175eb",
+            "compressed": true,
+            "size": 3860
+        },
+        "scripts_game_mediator_powerful_secret_layer.zip": {
+            "md5": "09ff60f1da92aef1edc072c50f6f1f3a",
+            "compressed": true,
+            "size": 2560
+        },
+        "scripts_game_mediator_rank_layer.zip": {
+            "md5": "c1f447433a32e474339f627293cf231e",
+            "compressed": true,
+            "size": 1103
+        },
+        "scripts_game_mediator_role.zip": {
+            "md5": "777e037959e5d28511c124db0c1466d4",
+            "compressed": true,
+            "size": 33040
+        },
+        "scripts_game_mediator_scene.zip": {
+            "md5": "f03d71436f4596c21061a51e583b897e",
+            "compressed": true,
+            "size": 17276
+        },
+        "scripts_game_mediator_script_layer.zip": {
+            "md5": "c8b1bc5bd1ac14c715ec4986cad4541e",
+            "compressed": true,
+            "size": 2482
+        },
+        "scripts_game_mediator_setResolutionSizeLayer.zip": {
+            "md5": "1a4272244ef46dbf1f431fc11c6ede61",
+            "compressed": true,
+            "size": 1289
+        },
+        "scripts_game_mediator_setting_layer.zip": {
+            "md5": "f24da8fe1af73e387148d93f73963b4a",
+            "compressed": true,
+            "size": 11732
+        },
+        "scripts_game_mediator_skill_layer-win32.zip": {
+            "md5": "1cfcb8f471bf6f919ac50975c3bd6a44",
+            "compressed": true,
+            "size": 1267
+        },
+        "scripts_game_mediator_skill_layer.zip": {
+            "md5": "b1c7796a6c7539bf8e7bc69264a6e18e",
+            "compressed": true,
+            "size": 1167
+        },
+        "scripts_game_mediator_stage_view_layer.zip": {
+            "md5": "ed808adfe64cf56767bc731eab679103",
+            "compressed": true,
+            "size": 4583
+        },
+        "scripts_game_mediator_store_layer.zip": {
+            "md5": "a96874e106edab36d40f58f22886984f",
+            "compressed": true,
+            "size": 3973
+        },
+        "scripts_game_mediator_team_layer.zip": {
+            "md5": "7f4506c3d9b1f0dce2a2451807468550",
+            "compressed": true,
+            "size": 5020
+        },
+        "scripts_game_mediator_test_layer.zip": {
+            "md5": "9c7bfd407c0f7539b95c8d93230541eb",
+            "compressed": true,
+            "size": 16070
+        },
+        "scripts_game_mediator_throw_damage_number.zip": {
+            "md5": "0807c038b61aa810abd5047d54a817db",
+            "compressed": true,
+            "size": 5187
+        },
+        "scripts_game_mediator_top_touch_layer.zip": {
+            "md5": "a981b36ebe63c9a1f0ce619f147bdb6f",
+            "compressed": true,
+            "size": 1011
+        },
+        "scripts_game_mediator_trade_layer.zip": {
+            "md5": "60b705b490adb81a8f6cbb99c37ce284",
+            "compressed": true,
+            "size": 4184
+        },
+        "scripts_game_mediator_trading_bank_layer.zip": {
+            "md5": "55fed8a2f35f7ddc45440afc4535e5dd",
+            "compressed": true,
+            "size": 27503
+        },
+        "scripts_game_proxy_local.zip": {
+            "md5": "6ccdebe26a4964bb20046b220a347a23",
+            "compressed": true,
+            "size": 109359
+        },
+        "scripts_game_proxy_remote_guild.zip": {
+            "md5": "2b6652470aa880338ca2c63a131d8774",
+            "compressed": true,
+            "size": 25621
+        },
+        "scripts_game_proxy_remote_scene.zip": {
+            "md5": "4b7685230025b342fa9f7a63619ac8b5",
+            "compressed": true,
+            "size": 3236
+        },
+        "scripts_game_valueobject_remote.zip": {
+            "md5": "ddff66fc41d562323cf94ebaa1901f2e",
+            "compressed": true,
+            "size": 18745
+        },
+        "scripts_game_view_export_box996_ui.zip": {
+            "md5": "a5b21b8e96b95575477aded4a9b03af4",
+            "compressed": true,
+            "size": 28856
+        },
+        "scripts_game_view_export_guide.zip": {
+            "md5": "90e3c6a79f1b446af536b8c0fbc588c4",
+            "compressed": true,
+            "size": 20284
+        },
+        "scripts_game_view_export_gui_editor.zip": {
+            "md5": "181ff95c5b18c4d5b4bad83d4cef6beb",
+            "compressed": true,
+            "size": 480259
+        },
+        "scripts_game_view_export_loading.zip": {
+            "md5": "8bc19873f0844242c23551d432d2947a",
+            "compressed": true,
+            "size": 6078
+        },
+        "scripts_game_view_export_login.zip": {
+            "md5": "4d21f311f085e6209b0c96b5679e88de",
+            "compressed": true,
+            "size": 108557
+        },
+        "scripts_game_view_export_main.zip": {
+            "md5": "5e2832beeb7f5f3811928d18e49cd44d",
+            "compressed": true,
+            "size": 9017
+        },
+        "scripts_game_view_export_mini_map.zip": {
+            "md5": "809013edc5ac5d5b4e9337beb1bef572",
+            "compressed": true,
+            "size": 6651
+        },
+        "scripts_game_view_export_moved_layer.zip": {
+            "md5": "70c7c07eb68b76617b0e74cc279973b8",
+            "compressed": true,
+            "size": 2254
+        },
+        "scripts_game_view_export_npc.zip": {
+            "md5": "1a1df0b5f2c278382a7c56e08dcb7f27",
+            "compressed": true,
+            "size": 21731
+        },
+        "scripts_game_view_export_powerful_secret.zip": {
+            "md5": "d336ef3d3f0aaa5ffd7bff0d9a26cd56",
+            "compressed": true,
+            "size": 3853
+        },
+        "scripts_game_view_export_preview_anim.zip": {
+            "md5": "d508adc79d9fe1c1b596d084a1dcfbfa",
+            "compressed": true,
+            "size": 89577
+        },
+        "scripts_game_view_export_preview_node.zip": {
+            "md5": "3aeab6efe56d7c22527b42746c770f8b",
+            "compressed": true,
+            "size": 33317
+        },
+        "scripts_game_view_export_preview_skill.zip": {
+            "md5": "a2f569573f87a2e6740eaca08810bc6e",
+            "compressed": true,
+            "size": 98208
+        },
+        "scripts_game_view_export_rich_test_layer.zip": {
+            "md5": "ee71e0341070a9be070f13cae1d48d4b",
+            "compressed": true,
+            "size": 27679
+        },
+        "scripts_game_view_export_scene.zip": {
+            "md5": "a167579f3feb60a6ecc7eb3eef07faef",
+            "compressed": true,
+            "size": 3637
+        },
+        "scripts_game_view_export_script_layer.zip": {
+            "md5": "7c13c1bdf572c8ba368b774a23722697",
+            "compressed": true,
+            "size": 6686
+        },
+        "scripts_game_view_export_setResolutionSizeLayer.zip": {
+            "md5": "5ecea7e7d3748c245a29ec09bb232f95",
+            "compressed": true,
+            "size": 8935
+        },
+        "scripts_game_view_export_TradingBankLayer.zip": {
+            "md5": "8b5dfadd634247ee84c37ff5df64eeef",
+            "compressed": true,
+            "size": 239525
+        },
+        "scripts_game_view_layersui_auction_layer.zip": {
+            "md5": "5d6e233354b96ea594722fe7defa82b3",
+            "compressed": true,
+            "size": 63155
+        },
+        "scripts_game_view_layersui_auto_trade_layer.zip": {
+            "md5": "5bbbed95b7d689344093f68ae4859e56",
+            "compressed": true,
+            "size": 11913
+        },
+        "scripts_game_view_layersui_auto_use_tips_layer.zip": {
+            "md5": "7666ee5ded8645aa28408b72c5ff33ba",
+            "compressed": true,
+            "size": 5093
+        },
+        "scripts_game_view_layersui_bag_layer.zip": {
+            "md5": "00f4d929323102e2d7f9cd854a07c066",
+            "compressed": true,
+            "size": 3809
+        },
+        "scripts_game_view_layersui_bag_layer_hero.zip": {
+            "md5": "ad9e76737d0ac9633079a1d124149fc4",
+            "compressed": true,
+            "size": 2435
+        },
+        "scripts_game_view_layersui_bag_layer_merge.zip": {
+            "md5": "c2d383b4ff6837ef69537b5b68ba62ca",
+            "compressed": true,
+            "size": 4303
+        },
+        "scripts_game_view_layersui_be_strong_layer.zip": {
+            "md5": "5d3e03c172da971285465be4fc984b90",
+            "compressed": true,
+            "size": 1663
+        },
+        "scripts_game_view_layersui_box996_layer.zip": {
+            "md5": "7f6196c1bebc5bdf54ad4b7b55d9b747",
+            "compressed": true,
+            "size": 25052
+        },
+        "scripts_game_view_layersui_chat_layer.zip": {
+            "md5": "006338230155c10c061b4d352224b0b2",
+            "compressed": true,
+            "size": 38935
+        },
+        "scripts_game_view_layersui_common_tips_layer.zip": {
+            "md5": "e5111bc93464632d2effaa9932b1fe1e",
+            "compressed": true,
+            "size": 8413
+        },
+        "scripts_game_view_layersui_darklayer.zip": {
+            "md5": "55ddf1311ed233cb7ba0b6ca6ccd3078",
+            "compressed": true,
+            "size": 2475
+        },
+        "scripts_game_view_layersui_extra_layer.zip": {
+            "md5": "99ec9152d1215f651194ef17dd84ad23",
+            "compressed": true,
+            "size": 5349
+        },
+        "scripts_game_view_layersui_friend_layer.zip": {
+            "md5": "e8976c1f88148a1ef7af584ce5e99682",
+            "compressed": true,
+            "size": 9175
+        },
+        "scripts_game_view_layersui_game_world_confirm_layer.zip": {
+            "md5": "4e7a6452381c02c20d76b09b5df9a1ff",
+            "compressed": true,
+            "size": 2225
+        },
+        "scripts_game_view_layersui_gold_box_layer.zip": {
+            "md5": "f714813934e630a0ca1eb9f84250889d",
+            "compressed": true,
+            "size": 9184
+        },
+        "scripts_game_view_layersui_guide_layer.zip": {
+            "md5": "b2e0cbf285dabe94ccd359488db68e03",
+            "compressed": true,
+            "size": 5987
+        },
+        "scripts_game_view_layersui_guild_layer.zip": {
+            "md5": "1226673538ac5a86fcb87424de9d98a3",
+            "compressed": true,
+            "size": 8309
+        },
+        "scripts_game_view_layersui_hurt_tips_layer.zip": {
+            "md5": "b98973711397c55ee37e2ad9b88530cc",
+            "compressed": true,
+            "size": 1699
+        },
+        "scripts_game_view_layersui_item_tips_layer.zip": {
+            "md5": "7ed4b77c551cbbf3192ea9344cf3afd1",
+            "compressed": true,
+            "size": 4308
+        },
+        "scripts_game_view_layersui_loading_layer.zip": {
+            "md5": "a839a3d9ab97e81abd3cdc76a4d87508",
+            "compressed": true,
+            "size": 2490
+        },
+        "scripts_game_view_layersui_login_layer.zip": {
+            "md5": "18febe52d5f6d136df6a8285095d48b1",
+            "compressed": true,
+            "size": 57916
+        },
+        "scripts_game_view_layersui_look_player_layer.zip": {
+            "md5": "55af2688eb5ddcb4479f5e0b765f83c1",
+            "compressed": true,
+            "size": 12630
+        },
+        "scripts_game_view_layersui_look_player_layer_hero.zip": {
+            "md5": "801ce532b4ffb99483d5e7e4cbd9fdb8",
+            "compressed": true,
+            "size": 8381
+        },
+        "scripts_game_view_layersui_look_player_layer_merge.zip": {
+            "md5": "431f2d62f607e0c8118786f85e1b7552",
+            "compressed": true,
+            "size": 7692
+        },
+        "scripts_game_view_layersui_look_tradingbank_player_layer.zip": {
+            "md5": "4bdf43929f505a7ded4d1c204bd456d3",
+            "compressed": true,
+            "size": 22685
+        },
+        "scripts_game_view_layersui_look_tradingbank_player_layer_hero.zip": {
+            "md5": "d489d73914697e94087ae6da68a54e39",
+            "compressed": true,
+            "size": 17950
+        },
+        "scripts_game_view_layersui_mail_layer.zip": {
+            "md5": "999665487d31a302adc0a7ae35cc7910",
+            "compressed": true,
+            "size": 11464
+        },
+        "scripts_game_view_layersui_message_layer.zip": {
+            "md5": "1487eecdb248dda6b4b97364d818f8ec",
+            "compressed": true,
+            "size": 19752
+        },
+        "scripts_game_view_layersui_mini_map.zip": {
+            "md5": "87f55a7f05fe09875f9219c9b31307d6",
+            "compressed": true,
+            "size": 13882,
+            "downloadState": 2
+        },
+        "scripts_game_view_layersui_moved_event_layer.zip": {
+            "md5": "69a7e1c7a0fa4b4ad681e430f80d9d9a",
+            "compressed": true,
+            "size": 4186
+        },
+        "scripts_game_view_layersui_near_player.zip": {
+            "md5": "8121549e3b1bd1809af114baf55b76b8",
+            "compressed": true,
+            "size": 2619
+        },
+        "scripts_game_view_layersui_npc_layer.zip": {
+            "md5": "b5a2612c18ff0d7034c4cd8902eeb50a",
+            "compressed": true,
+            "size": 16271
+        },
+        "scripts_game_view_layersui_player_layer.zip": {
+            "md5": "050e7d108304d1002baedaed39e11d9b",
+            "compressed": true,
+            "size": 19267
+        },
+        "scripts_game_view_layersui_player_layer_hero.zip": {
+            "md5": "db2c1b41bf37608766314ff55acc56f7",
+            "compressed": true,
+            "size": 33557
+        },
+        "scripts_game_view_layersui_player_layer_merge.zip": {
+            "md5": "623e8bcb0ba368c2678767d8454deb1c",
+            "compressed": true,
+            "size": 7852
+        },
+        "scripts_game_view_layersui_powerful_secret_layer.zip": {
+            "md5": "5c3d37600a01c1868dd09fafeb3338b0",
+            "compressed": true,
+            "size": 9840
+        },
+        "scripts_game_view_layersui_rank_layer.zip": {
+            "md5": "72d00787641230dc0d64a0301b227ad3",
+            "compressed": true,
+            "size": 633
+        },
+        "scripts_game_view_layersui_script_layer.zip": {
+            "md5": "d2760f38a21779fc170d2c706832a43b",
+            "compressed": true,
+            "size": 3434
+        },
+        "scripts_game_view_layersui_setResolutionSizeLayer.zip": {
+            "md5": "da4d9292b0d84c959dfd451d0cb40f96",
+            "compressed": true,
+            "size": 3191
+        },
+        "scripts_game_view_layersui_setting_layer.zip": {
+            "md5": "a33e3f778776b4007758e51f8e451159",
+            "compressed": true,
+            "size": 23804
+        },
+        "scripts_game_view_layersui_skill_layer-win32.zip": {
+            "md5": "75a96c1104deb216966b93adc80e6ed1",
+            "compressed": true,
+            "size": 2779
+        },
+        "scripts_game_view_layersui_skill_layer.zip": {
+            "md5": "ff4e3073fbddcb6fad3d00b1c065eee6",
+            "compressed": true,
+            "size": 675
+        },
+        "scripts_game_view_layersui_stage_view_layer.zip": {
+            "md5": "d8b4c4371d721b7ceeac0ad752891160",
+            "compressed": true,
+            "size": 3719
+        },
+        "scripts_game_view_layersui_store_layer.zip": {
+            "md5": "7fdb3cfc4da46deb072efc0cebc5b134",
+            "compressed": true,
+            "size": 13311
+        },
+        "scripts_game_view_layersui_team_layer.zip": {
+            "md5": "f6bebe2e192c74eda824192ec92b3ef4",
+            "compressed": true,
+            "size": 14006
+        },
+        "scripts_game_view_layersui_test_layer_configSetting_configExport_auction_ui.zip": {
+            "md5": "0c2198eaa0d7a32d138c0b6ab8283d00",
+            "compressed": true,
+            "size": 8583
+        },
+        "scripts_game_view_layersui_test_layer_configSetting_configExport_game_data.zip": {
+            "md5": "b278fd7e5bdc033a5b5e26ce73428d5f",
+            "compressed": true,
+            "size": 50470
+        },
+        "scripts_game_view_layersui_test_layer_configSetting_configExport_sound_setting_ui.zip": {
+            "md5": "3186055d13e82457c55f356028d5ec65",
+            "compressed": true,
+            "size": 8668
+        },
+        "scripts_game_view_layersui_test_layer_configSetting_configLayout_game_data.zip": {
+            "md5": "c9bdad32c47b2e4a57ea1644ea29a294",
+            "compressed": true,
+            "size": 48763
+        },
+        "scripts_game_view_layersui_top_touch_layer.zip": {
+            "md5": "6f3a20cc1ff41c09a32365d3e88a8bda",
+            "compressed": true,
+            "size": 1375
+        },
+        "scripts_game_view_layersui_trade_layer.zip": {
+            "md5": "8473f9beaa5577daa904c38ee45c0624",
+            "compressed": true,
+            "size": 7476
+        },
+        "scripts_game_view_layersui_tradingBankLayer.zip": {
+            "md5": "156edf2231b1239609ddde6f1f460616",
+            "compressed": true,
+            "size": 119541
+        },
+        "scripts_game_view_mainui-win32.zip": {
+            "md5": "32d4adc89106da13d53ad26c12c1dce6",
+            "compressed": true,
+            "size": 42414
+        },
+        "scripts_game_view_mainui.zip": {
+            "md5": "0eb4940afe730d0d8abd16c1acb844f1",
+            "compressed": true,
+            "size": 78943
+        },
+        "scripts_game_view_role.zip": {
+            "md5": "71bbe7e3f229146ee24ab017604aae95",
+            "compressed": true,
+            "size": 3317
+        },
+        "scripts_game_view_scene.zip": {
+            "md5": "54ce88910e4a26da37f580bd774dc135",
+            "compressed": true,
+            "size": 7444
+        },
+        "scripts_GUI_CUI.zip": {
+            "md5": "6e01176288982ece9f778a38808161da",
+            "compressed": true,
+            "size": 30963
+        },
+        "scripts_GUI_guide.zip": {
+            "md5": "ba34e40c80d15c66f79090e78eb1c1bd",
+            "compressed": true,
+            "size": 1275
+        },
+        "scripts_GUI_sui.zip": {
+            "md5": "9002f012eda43ac57d7c3882accc03bd",
+            "compressed": true,
+            "size": 8019
+        },
+        "scripts_init.zip": {
+            "md5": "fa5dbd4b8ec0d4f75330b11aa8b25d03",
+            "compressed": true,
+            "size": 4236
+        },
+        "scripts_logic.zip": {
+            "md5": "9a4d98b0e1b9f4c113ae0d10ce6d7851",
+            "compressed": true,
+            "size": 139436,
+            "downloadState": 2
+        },
+        "scripts_network.zip": {
+            "md5": "662accc59a349fd2413e90a4ca40e79b",
+            "compressed": true,
+            "size": 20434
+        },
+        "scripts_res_check.zip": {
+            "md5": "6931c8ef54c39a1c26b1cc1ebd09a80f",
+            "compressed": true,
+            "size": 19106
+        },
+        "scripts_scene.zip": {
+            "md5": "77caa90902c4f9fc2e8e6f95879d6964",
+            "compressed": true,
+            "size": 26175,
+            "downloadState": 2
+        },
+        "scripts_sha1.zip": {
+            "md5": "f109c891b3807dbd4e738707676bc590",
+            "compressed": true,
+            "size": 6773
+        },
+        "scripts_skill.zip": {
+            "md5": "bb9083d205578335379e753273e3f143",
+            "compressed": true,
+            "size": 24314
+        },
+        "scripts_util.zip": {
+            "md5": "38da9937f484f8aeaac85b7fe38649d6",
+            "compressed": true,
+            "size": 104296,
+            "downloadState": 2
+        },
+        "shader.zip": {
+            "md5": "1586e14bcbb7aef3489561960e08a997",
+            "compressed": true,
+            "size": 4651
+        }
+    },
+    "searchPaths": []
+}

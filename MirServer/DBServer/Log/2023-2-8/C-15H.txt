@@ -1,0 +1,37 @@
+Load(缓):[1] [2] 2023-02-08 15:03:36 残剑若无痕 Level:1 Body[0]: MakeIndex:10058 Index:31001 addValue:2(63) Body[1]: MakeIndex:10059 Index:30001 addValue:2(63) Body[17]: MakeIndex:10061 Index:40001 addValue:2(63) Body[18]: MakeIndex:10060 Index:40002 addValue:2(63)  --  -- HumMagic[0]: MagicID:3 btLevel:3 TranPoint:0 HumMagic[1]: MagicID:7 btLevel:3 TranPoint:0 HumMagic[2]: MagicID:12 btLevel:3 TranPoint:0 HumMagic[3]: MagicID:27 btLevel:3 TranPoint:0 HumMagic[4]: MagicID:26 btLevel:3 TranPoint:0 HumMagic[5]: MagicID:66 btLevel:3 TranPoint:0 HumMagic[6]: MagicID:56 btLevel:3 TranPoint:0 HumMagic[7]: MagicID:6 btLevel:3 TranPoint:0 
+2023-02-08 15:03:37 存储耗时：SaveHum:16,HumBodyItems:0,HumBagItems:0,UpdateHumStorageItems:0
+Save:[4] [0] 2023-02-08 15:03:37 残剑若无痕 Level:1 Body[0]: MakeIndex:10058 Index:31001 addValue:2(63) addValue:4(-2141869483) Body[1]: MakeIndex:10059 Index:30001 addValue:2(63) addValue:4(-2141869483) Body[17]: MakeIndex:10061 Index:40001 addValue:2(63) addValue:4(-2141869483) Body[18]: MakeIndex:10060 Index:40002 addValue:2(63) addValue:4(-2141869483)  --  -- HumMagic[0]: MagicID:3 btLevel:3 TranPoint:0 HumMagic[1]: MagicID:7 btLevel:3 TranPoint:0 HumMagic[2]: MagicID:12 btLevel:3 TranPoint:0 HumMagic[3]: MagicID:27 btLevel:3 TranPoint:0 HumMagic[4]: MagicID:26 btLevel:3 TranPoint:0 HumMagic[5]: MagicID:66 btLevel:3 TranPoint:0 HumMagic[6]: MagicID:56 btLevel:3 TranPoint:0 HumMagic[7]: MagicID:6 btLevel:3 TranPoint:0 
+Load(库):[3] [0] 2023-02-08 15:03:52 奚半鬼 Level:0  --  -- 
+2023-02-08 15:03:54 存储耗时：SaveHum:0,HumBodyItems:0,HumBagItems:0,UpdateHumStorageItems:16
+Save:[4] [0] 2023-02-08 15:03:54 奚半鬼 Level:1  --  -- 
+Load(库):[3] [0] 2023-02-08 15:04:04 戚神级神炮手 Level:0  --  -- 
+2023-02-08 15:04:05 存储耗时：SaveHum:16,HumBodyItems:0,HumBagItems:0,UpdateHumStorageItems:0
+Save:[4] [0] 2023-02-08 15:04:05 戚神级神炮手 Level:1  --  -- 
+2023-02-08 15:14:05 存储耗时：SaveHum:0,HumBodyItems:0,HumBagItems:15,UpdateHumStorageItems:0
+Save:[4] [0] 2023-02-08 15:14:05 戚神级神炮手 Level:1  --  -- 
+2023-02-08 15:24:05 存储耗时：SaveHum:16,HumBodyItems:0,HumBagItems:0,UpdateHumStorageItems:0
+Save:[4] [0] 2023-02-08 15:24:05 戚神级神炮手 Level:1  --  -- 
+Load(缓):[1] [4] 2023-02-08 15:36:57 戚神级神炮手 Level:1  --  -- 
+2023-02-08 15:37:00 存储耗时：SaveHum:15,HumBodyItems:0,HumBagItems:0,UpdateHumStorageItems:0
+Save:[4] [0] 2023-02-08 15:37:00 戚神级神炮手 Level:1  --  -- 
+Load(库):[3] [0] 2023-02-08 15:37:15 劣人传说 Level:0  --  -- 
+2023-02-08 15:37:16 存储耗时：SaveHum:0,HumBodyItems:0,HumBagItems:0,UpdateHumStorageItems:0
+Save:[4] [0] 2023-02-08 15:37:16 劣人传说 Level:1  --  -- 
+Load(缓):[1] [5] 2023-02-08 15:38:56 劣人传说 Level:1  --  -- 
+2023-02-08 15:38:57 存储耗时：SaveHum:0,HumBodyItems:0,HumBagItems:0,UpdateHumStorageItems:0
+Save:[4] [0] 2023-02-08 15:38:57 劣人传说 Level:1  --  -- 
+Load(库):[3] [0] 2023-02-08 15:44:10 寇楼拜 Level:0  --  -- 
+2023-02-08 15:44:12 存储耗时：SaveHum:0,HumBodyItems:0,HumBagItems:0,UpdateHumStorageItems:0
+Save:[4] [0] 2023-02-08 15:44:12 寇楼拜 Level:1  --  -- 
+Load(缓):[1] [6] 2023-02-08 15:49:17 寇楼拜 Level:1  --  -- 
+2023-02-08 15:49:18 存储耗时：SaveHum:0,HumBodyItems:0,HumBagItems:0,UpdateHumStorageItems:0
+Save:[4] [0] 2023-02-08 15:49:18 寇楼拜 Level:1  --  -- 
+Load(缓):[1] [6] 2023-02-08 15:50:20 寇楼拜 Level:1  --  -- 
+2023-02-08 15:50:21 存储耗时：SaveHum:0,HumBodyItems:0,HumBagItems:0,UpdateHumStorageItems:0
+Save:[4] [0] 2023-02-08 15:50:21 寇楼拜 Level:1  --  -- 
+Load(库):[3] [0] 2023-02-08 15:50:30 欧嘉玲 Level:0  --  -- 
+2023-02-08 15:50:31 存储耗时：SaveHum:0,HumBodyItems:0,HumBagItems:0,UpdateHumStorageItems:0
+Save:[4] [0] 2023-02-08 15:50:31 欧嘉玲 Level:1  --  -- 
+Load(缓):[1] [7] 2023-02-08 15:59:47 欧嘉玲 Level:1  --  -- 
+2023-02-08 15:59:47 存储耗时：SaveHum:0,HumBodyItems:15,HumBagItems:0,UpdateHumStorageItems:0
+Save:[4] [0] 2023-02-08 15:59:47 欧嘉玲 Level:1  --  -- 
